@@ -2,13 +2,10 @@
 # sirene.sh
 # Bom para chamar a atenção dos colegas de trabalho :)
 
-echo -ne "\033[11;900]"   # Cada bipe dura quase um segundo
+echo -n "[11;900]"   # Cada bipe dura quase um segundo
 while :                   # Loop eterno
 do
-	echo -ne "\033[10;500]\a" ; sleep 1  # Tom alto (agudo)
-	echo -ne "\033[10;400]\a" ; sleep 1  # Tom baixo (grave)
+	echo -n "[10;500]" ; sleep 1  # Tom alto (agudo)
+	echo -n "[10;400]" ; sleep 1  # Tom baixo (grave)
 done
 
-# Obs.: No livro foi usada a notação conservadora, com
-#       Esc literal "^[" (Ctrl-V, Esc) e ^G (Ctrl-V, Ctrl-G).
-#       Em sistemas modernos, prefira esta notação, com \033 e \a.
