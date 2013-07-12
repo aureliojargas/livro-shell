@@ -1,0 +1,77 @@
+# xlogical property file
+#
+#-------------------------------------------------------------------------------
+# game options
+#-------------------------------------------------------------------------------
+#
+# game.mode=editor|custom|default
+#
+#game.mode=editor
+#game.mode=custom
+game.mode=default
+
+#
+# if game.mode=custom|editor, game.levels=<path to levels file>
+#
+game.levels=xlogical.levels
+
+#-------------------------------------------------------------------------------
+# video options
+#-------------------------------------------------------------------------------
+#video.mode=fullscreen
+video.mode=fullscreen
+
+#-------------------------------------------------------------------------------
+# audio options
+#-------------------------------------------------------------------------------
+audio.enabled=0
+#
+# 1=mono, 2=stereo
+#
+audio.channels=2
+audio.frequency=22050
+#
+# 1=unsigned 8-bit, 2=signed 8-bit, 3=unsigned 16-bit little endian
+# 4=signed 16-bit little endian, 5=unsigned 16-bit big endian,
+# 6=signed 16-bit big endian
+#
+audio.format=4
+#
+# must be power of two - smallest value where sound does not skip is best
+#
+audio.chunksize=1024
+
+#-------------------------------------------------------------------------------
+# music options
+#-------------------------------------------------------------------------------
+music.volume=1.000000
+music.intro=/usr/share/games/xlogical/music/intro.mod
+music.won_game=/usr/share/games/xlogical/music/wongame.mod
+music.end_game=/usr/share/games/xlogical/music/endgame.mod
+music.pre_game=/usr/share/games/xlogical/music/pregame.mod
+music.high_score=/usr/share/games/xlogical/music/highscore.mod
+music.in_game=/usr/share/games/xlogical/music/overload.mod
+#
+# a ':' separated list of absolute paths of directories containg mods
+#
+#music.in_game=
+
+#-------------------------------------------------------------------------------
+# sound options
+#-------------------------------------------------------------------------------
+sound.volume=0.950000
+sound.block_ball=/usr/share/games/xlogical/sound/block_ball.wav
+sound.bonus_life=/usr/share/games/xlogical/sound/bonus_life.wav
+sound.catch_ball=/usr/share/games/xlogical/sound/catch_ball.wav
+sound.eject_ball=/usr/share/games/xlogical/sound/eject_ball.wav
+sound.finish_level=/usr/share/games/xlogical/sound/finish_level.wav
+sound.finish_spinner=/usr/share/games/xlogical/sound/finish_spinner.wav
+sound.menu_click=/usr/share/games/xlogical/sound/menu_click.wav
+sound.new_ball=/usr/share/games/xlogical/sound/new_ball.wav
+sound.new_pattern=/usr/share/games/xlogical/sound/new_pattern.wav
+sound.one_way=/usr/share/games/xlogical/sound/one_way.wav
+sound.paint_ball=/usr/share/games/xlogical/sound/paint_ball.wav
+sound.spinner_click=/usr/share/games/xlogical/sound/spinner_click.wav
+sound.teleport_ball=/usr/share/games/xlogical/sound/teleport.wav
+sound.time_warning=/usr/share/games/xlogical/sound/time_warning.wav
+

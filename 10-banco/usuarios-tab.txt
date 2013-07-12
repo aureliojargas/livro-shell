@@ -1,0 +1,8 @@
+login	nome completo	idade	sexo
+junior	Alfredo Vieira Júnior	12	M
+dani	Daniele Almeida Teles	19	F
+luciana	Luciana Silveira	22	F
+ana	Ana Paula de Souza	58	F
+ze	José Carlos Vaz	45	M
+luigi	Luigi da Silva	28	M
+guybrush	Guybrush Threepwood	18	M

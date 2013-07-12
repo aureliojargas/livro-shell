@@ -1,0 +1,4 @@
+dialog                                       \
+   --title 'Conteúdo do arquivo /etc/shells' \
+   --textbox /etc/shells                     \
+   0 0

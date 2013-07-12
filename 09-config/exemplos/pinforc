@@ -1,0 +1,103 @@
+# Here are some colour setting.
+# Whitespace between the entries is optional.
+# Format:
+# Color_ID         = Foreground   ,  Background  ,  forelight,  backblink(light)
+#
+COL_NORMAL         = COLOR_WHITE  ,  COLOR_BLACK ,  NO_BOLD  ,  NO_BLINK
+COL_MENUSELECTED   = COLOR_RED    ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_MENU           = COLOR_BLUE   ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_NOTESELECTED   = COLOR_RED    ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_NOTE           = COLOR_GREEN  ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_TOPLINE        = COLOR_YELLOW ,  COLOR_BLUE  ,  BOLD     ,  NO_BLINK
+COL_BOTTOMLINE     = COLOR_YELLOW ,  COLOR_BLUE  ,  BOLD     ,  NO_BLINK
+COL_MANUALBOLD     = COLOR_WHITE  ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_MANUALITALIC   = COLOR_WHITE  ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_URL            = COLOR_MAGENTA,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_URLSELECTED    = COLOR_RED    ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_INFOHIGHLIGHT  = COLOR_WHITE  ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+COL_SEARCHHIGHLIGHT= COLOR_YELLOW ,  COLOR_BLACK ,  BOLD     ,  NO_BLINK
+#
+# Here are some keybindings as well...
+#
+KEY_TOTALSEARCH_1 = 's'
+KEY_TOTALSEARCH_2 = 'S'
+KEY_SEARCH_1 = '/'
+KEY_SEARCH_2 = '.'
+KEY_GOTO_1='g'
+KEY_GOTO_2='m'
+KEY_HOME_1=KEY_HOME
+KEY_HOME_2='H'
+KEY_PREVNODE_1='p'
+KEY_PREVNODE_2='P'
+KEY_NEXTNODE_1='n'
+KEY_NEXTNODE_2='N'
+KEY_UP_1=KEY_UP
+KEY_UP_2='k'
+KEY_TWOUP_1=KEY_IC
+KEY_TWOUP_2=0
+KEY_END_1=KEY_END
+KEY_END_2='e'
+KEY_PGDN_1=KEY_NPAGE
+KEY_PGDN_2=' '
+KEY_PGDN_AUTO_1=0
+KEY_PGDN_AUTO_2=' '
+KEY_PGUP_1=KEY_PPAGE
+KEY_PGUP_2='b'
+KEY_PGUP_AUTO_1=0
+KEY_PGUP_AUTO_2='b'
+KEY_DOWN_1=KEY_DOWN
+KEY_DOWN_2='j'
+KEY_TWODOWN_1=KEY_DC
+KEY_TWODOWN_2=0
+KEY_TOP_1='t'
+KEY_TOP_2='T'
+KEY_BACK_1=KEY_LEFT
+KEY_BACK_2='h'
+KEY_FOLLOWLINK_1=KEY_RIGHT
+KEY_FOLLOWLINK_2='\n'
+KEY_REFRESH_1=KEY_CTRL('l')
+KEY_REFRESH_2='~'
+KEY_SHELLFEED_1='!'
+KEY_SHELLFEED_2='1'
+KEY_QUIT_1='q'
+KEY_QUIT_2='Q'
+KEY_DIRPAGE_1='d'
+KEY_DIRPAGE_2='D'
+KEY_GOLINE_1='l'
+KEY_GOLINE_2=0
+KEY_PRINT_1=']'
+KEY_PRINT_2=0
+KEY_SEARCH_AGAIN_1='f'
+KEY_SEARCH_AGAIN_2=0
+#
+# Some options, explained in the man page
+#
+MANUAL=false
+CUT-MAN-HEADERS=true
+CUT-EMPTY-MAN-LINES=true
+RAW-FILENAME=false
+APROPOS=false
+DONT-HANDLE-WITHOUT-TAG-TABLE=false
+LONG-MANUAL-LINKS=false
+FILTER-0xB7=true
+QUIT-CONFIRMATION=false
+QUIT-CONFIRM-DEFAULT=no
+CLEAR-SCREEN-AT-EXIT=true
+STDERR-REDIRECTION="2> /dev/null"
+HTTPVIEWER=lynx
+FTPVIEWER=lynx
+MAILEDITOR=clear; mail
+PRINTUTILITY=lpr
+MANLINKS=1:8:2:3:4:5:6:7:9:n:p:o:3X11:3Xt:3x:3X
+SAFE-USER=nobody
+SAFE-GROUP=nobody
+#
+# Remember, HIGHLIGHTREGEXP may be slow (thus it's commented by default)
+#
+#HIGHLIGHTREGEXP=Bash rulez
+#
+# The bellow instructions are quoted, since although they give
+# more security, they are quite slow when turned on...
+#
+#IGNORE-MACROS=pso:sy:write:open:opena:pi:!:als
+#QUOTE-IGNORED-MACROS=true

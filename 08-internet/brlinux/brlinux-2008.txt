@@ -1,0 +1,377 @@
+   #RSS 2.0 RSS .92 Atom 0.3
+
+     Visite também: UnderLinux ·  VivaOLinux ·  LinuxSecurity ·  Dicas-L ·
+             NoticiasLinux ·  SoftwareLivre.org ·  [mais] ·  Efetividade ·
+                                                                   Floripa
+
+BR-Linux.org
+
+   Linux levado a sério desde 1996
+   O que é Linux   Download Linux   FAQ Linux   Termos de uso   Enviar
+   notícia   Contato   RSS 2.0 RSS
+     __________________________________________________________________
+
+Ubuntu 8.04 Hardy Heron Alpha 6
+
+     "Sai o último Alpha da próxima versão do Ubuntu 8.04 Hardy Heron,
+     com previsão final para o dia 24 de Abril e ainda com o lançamento
+     de uma versão Beta dia 20 deste mês. Veja como baixar e como se
+     tornar tradutor no link da notícia."
+
+   Enviado por André Gondim (andregondimTHubuntu·com) - referência
+   (andregondim.eti.br).
+
+   7/03/2008 | Arquivado em Distribuições | Sem comentários
+
+Lançado o KDE 4.0.2
+
+     "Acabamos de lançar o KDE 4.0.2, com as seguintes novidades: novos
+     recursos do Plasma e opções de configuração do painel, novas
+     traduções, várias correções e melhorias no Kopete, Okular e KHTML."
+
+   Enviado por Sebastian Kuegler - referência (kde.org).
+
+   7/03/2008 | Arquivado em Aplicações | 2 Comentários
+
+   Notícias em destaque:
+   Notícias em discussão:
+
+   IDGNow: Problemas de configuração e cultura do usuário assombram PC
+   (...)
+   ASUS Eee PC expandindo a família - 8,9 polegadas e 400 euros
+   A semana no BR-Linux: bons hábitos, modems celulares, Ubuntu Mobile e
+   (...)
+   Ubuntu Brainstorm: Diga como você quer o próximo Ubuntu (...)
+   Lançado o KDE 4.0.2
+   IDGNow: Problemas de configuração e cultura do usuário assombram PC
+   (...)
+   OpenXML: Afinal: O que fomos fazer em Genebra?
+   Pai do Java pede: parem de usar Emacs!
+
+Shuttle PC com Foresight Linux
+
+     "A Shuttle PC anunciou na CES 2008 o lançamento de seus PCs SFF
+     (Small Form Factor), anunciados com o valor de US$199. As
+     configurações dele são bem básicas, processador intel celeron, video
+     intel graphics, HD 80G, 512Mb Ram, porém toda configuração
+     expansível. Em anúncio feito em seu próprio site de noticias, a
+     Shuttle disse algumas palavras sobre a escolha do sistema
+     operacional, que será o Foresight Linux, "Escolhemos ele por ter uma
+     interface intuitiva e ser focado no design". Ontemenviei um e-mail
+     para eles e logo fui respondido, eles ainda não estão vendendo, mais
+     esperam exportar para nós brasileiros em breve. Tentarei manter
+     contato com eles para mais informações."
+
+   Enviado por Pedro Costa Neves (neoTHpersocon·org) - referência
+   (persocon.org).
+
+   7/03/2008 | Arquivado em Mercado | Sem comentários
+
+CeBIT 2008: Tela multi-toques
+
+     "Pascal Schmitt demonstrou sua mesa luminosa sensível a múltiplos
+     toques (multi-touchscreen é o nome técnico), assim como alguns
+     aplicativos que ele já desenvolveu para ela. Na base do aparelho,
+     Linux e outros softwares de Código Aberto.
+
+     O mote da mesa luminosa do desenvolvedor é "Por favor toque" e,
+     diferentemente das telas sensíveis ao toque convencionais, esta pode
+     ser utilizada por múltiplas pessoas ao mesmo tempo. Como os
+     programas atuais não são programados para lidar com mais de um
+     dispositivo apontador, o desenvolvedor de 20 anos desenvolveu seus
+     próprios aplicativos, incluindo um programa de mapeamento de memória
+     e um outro que exibe teclados na tela. O mapeador de memória precisa
+     da interação de duas mãos, e cada um dos teclados mostrados na mesa
+     luminosa pode ter múltiplas teclas pressionadas simultaneamente."
+
+   Enviado por Pablo Hess (phessTHlinuxnewmedia·com·br) - referência
+   (linuxmagazine.com.br).
+
+   7/03/2008 | Arquivado em Aplicações | Sem comentários
+
+Treinamento Básico e Avançado de Asterisk
+
+     "Venha participar do Treinamento Avançado de Asterisk, um curso
+     inovador com aulas 90% práticas, desenvolvendo laboratórios com as
+     placas DIGIUM, DIGIVOICE e KHOMP. Além de aprender a configurar
+     cartões pré-pagos, alta disponibilidade, fax, entre outros. Confira!
+
+     O treinamento avançado ocorrerá em Florianópolis, nos dias 31 de
+     março, 01, 02 e 03 de abril de 2008.
+
+     Se você ainda não possui o pré-requisito para o Treinamento Avançado
+     faça o Treinamento de Asterisk básico antes nas seguintes datas e
+     Capitais:
+
+     - Belo Horizonte: Dias 10, 11, 12, 13 e 14 de março de 2008.
+     - Salvador: Dias 10, 11, 12, 13 e 14 de março de 2008.
+     - Florianópolis: Dias 10, 11, 12, 13 e 14 de março de 2008.
+     - Fortaleza: Dias 24, 25, 26, 27 e 28 de março de 2008.
+     - Campo Grande: Dias 07, 08, 09,10 e 11 de abril de 2008.
+     - São Paulo: Dias 07, 08, 09,10 e 11 de abril de 2008.
+     - Curitiba: Dias 14, 15, 16, 17 e 18 de abril de 2008.
+     - Recife: Dias 14, 15, 16, 17 e 18 de abril de 2008.
+
+     Maiores informações: 48 3025 8575 ou treinamento@voffice.com.br."
+
+   Enviado por VOffice - referência (voffice.com.br). A VOffice é
+   anunciante do BR-Linux.
+
+   7/03/2008 | Arquivado em Anúncio, Curso | Sem comentários
+
+Driver ATI 8.3 disponível para Linux
+
+     "Conforme notícia oficial, foi disponibilizado uma nova atualização
+     do driver para placas de vídeo ATI. A versão 8.3 (ou 8.471 no padrão
+     de versões antigo) trás novidades e correções, entre elas:
+
+     * Esta versão introduz a extensão Xvideo para escalonamento de vídeo
+     para a série Xpress 1200.
+     * Aplicações 3D não mais sofrerão distorções quando a largura da
+     resolução não for um inteiro múltiplo de 64 pixels, por exemplo com
+     uma resolução widescreen de 1680×1050.
+     * Sem distorções de tela ao iniciar o protetor de tela no gnome.
+     * Muitos problemas de brilho e correção-gama doram resolvidos.
+     Definindo a correção-gamma através da utilização do xgamma,
+     fglrx_xgamma, xorg.conf e também em OpenGL games funcionarão
+     corretamente.
+     * A distorção diagonal presente em players de vídeo que utilizam a
+     extensão Xvideo não será mais apresentada.
+     * A reprodução de vídeo não parecerá mais quadriculada utilizando
+     players com sobre a extensão Xvideo."
+
+   Enviado por Joel Teixeira (joelteixeiraTHgmail·com) - referência
+   (joelteixeira.net).
+
+   6/03/2008 | Arquivado em Aplicações | 6 Comentários
+
+Fundações GNOME e Mozilla anunciam cooperação
+
+   A GNOME Foundation e a Mozilla Foundation anunciaram que vão cooperar
+   mais de perto no futuro, incluindo a participação da Mozilla no
+   conselho do GNOME, trabalho conjunto no XUL e Firefox, e uma doação de
+   US$ 10.000 ao recém anunciado programa de acessibilidade da fundação
+   GNOME.
+
+   Saiba mais (lwn.net).
+
+   6/03/2008 | Arquivado em Mercado | 5 Comentários
+
+Atualização do dicionário de português do Brasil para Aspell e Vim
+
+     "Essa nova versão traz todas as melhorias do Verificador Ortográfico
+     (VERO) do BrOffice.org. O recurso mais notável é o suporte a ênclise
+     e mesóclise, que é ainda mais útil graças à habilidade do Aspell e
+     do Vim de considerar o hífen como parte da palavra. Existem ainda
+     novidades específicas para o Aspell e para o Vim, tanto para os
+     usuários finais quando no processo de manutenção. Uso
+     cotidianamente, e estou muito satisfeito. Espero que, em breve,
+     vocês também!"
+
+   Enviado por Leonardo Fontenelle (leo·fontenelleTHgmail·com) -
+   referência (leonardof.org).
+
+   6/03/2008 | Arquivado em Aplicações | 1 Comentário
+
+"OOXML: Está rolando um barraco na ISO"
+
+   Leia também: OpenXML: Afinal: O que fomos fazer em Genebra?
+
+   Do relato de Avi Alkalay: "Veja como as coisas são... Segundo o post do
+   Jomar que esteve no BRM da ISO, um cidadão chegou nele num intervalo e
+   sutilmente pediu para que não levantasse uma questão importante no
+   processo do OOXML da Microsoft virar ou não um padrão ISO: a
+   inexistência do mapeamento entre o formato legado (ex: .doc) e o
+   formato novo (ex: .docx). Sem esse mapeamento, o propósito primordial
+   da existência do OOXML como padrão ISO deixa de existir.
+
+   (...) Se esse mapeamento não fizer parte da especificação OOXML, seu
+   objetivo primordial é inválido. A especificação é inválida. E a
+   delegação brasileira queria levantar essa bola: cadê o mapeamento?
+   (...) O que me escapa o entendimento é por que a ISO não deixou o
+   Brasil apresentar esse questionamento?"
+
+   Saiba mais (avi.alkalay.net).
+
+   6/03/2008 | Arquivado em Mercado | 11 Comentários
+
+Mais uma bolsa de trabalho com Linux, na UFF/Niterói
+
+     "Temos disponível, para implementação imediata, uma bolsa de nível
+     médio (R$ 300,00 mensais por dez horas semanais), para administração
+     de sistemas GNU/Linux. O Instituto de Física é o mais antigo pólo de
+     software livre da Universidade Federal Fluminense, em Niterói. A
+     atividade prevista consiste na instalação e manutenção dos clusters
+     e laboratórios de cálculo numérico e simulações, com considerações
+     de segurança, performance, etc. Os servidores e desktops rodam
+     principalmente Debian (o que significa pouco trabalho ;-) ).
+
+     Existe uma grande flexibilidade de horários, o que facilita a vida
+     de estudantes interessados, por exemplo. Os interessados podem
+     enviar email, com breve descrição do seu nível de conhecimento de
+     GNU/Linux, para operador@if.uff.br. Não é necessário ser estudante
+     da UFF. P.S.: para comprovar o reconhecimento do trabalho aqui, a
+     bolsa está disponível pois o ocupante anterior foi contratado por
+     uma empresa de inovação tecnológica, levando em conta o trabalho
+     realizado aqui no IFUFF."
+
+   Enviado por Thadeu Penna (thadeu·pennaTHgmail·com) - referência
+   (profs.if.uff.br).
+
+   6/03/2008 | Arquivado em Anúncio, Emprego | Sem comentários
+
+Artigos anteriores
+
+     * Repórter se disfarça de consumidor e vai ao varejo ver como as
+       lojas oferecem os micros com Linux
+     * Pai do Java pede: parem de usar Emacs!
+     * OpenXML: Afinal: O que fomos fazer em Genebra?
+     * IDGNow: Problemas de configuração e cultura do usuário assombram PC
+       para Todos
+     * Educação Ambiental utilizando tecnologia 3D
+     * Problema ao imprimir a declaração do IR deste ano - causa e solução
+     * Relato de migração de 2000 desktops suiços para Debian
+     * Como instalar o IRPF 2008 no Mandriva (e distribuições similares)
+
+   « Artigos anteriores
+     * Destaques
+          + IDGNow: Problemas de configuração e cultura do usuário
+            assombram PC para Todos
+          + ASUS Eee PC expandindo a família - 8,9 polegadas e 400 euros
+          + A semana no BR-Linux: bons hábitos, modems celulares, Ubuntu
+            Mobile e Nintendo Wii
+          + Ubuntu Brainstorm: Diga como você quer o próximo Ubuntu Linux
+     * Meta
+          + Register
+          + Login
+          + WordPress
+     *
+     * Em discussão
+          + Lançado o KDE 4.0.2 (1)
+          + IDGNow: Problemas de configuração e cultura do usuário
+            assombram PC para Todos (10)
+          + OpenXML: Afinal: O que fomos fazer em Genebra? (4)
+          + Pai do Java pede: parem de usar Emacs! (42)
+          + "OOXML: Está rolando um barraco na ISO" (11)
+     * Anteriores
+          + March 2008
+          + February 2008
+          + January 2008
+          + Anos anteriores
+
+     * Google
+       Digite os termos da sua pesquisa __________________
+       (_) Web (_) br-linux.org Enviar formulário de pesquisa Pesquisar
+
+     *
+
+                            [ad9.jpg?1204901624]
+       Anuncie no BR-Linux
+
+                           [FSF Associate Member]
+
+   Hospedagem de sites
+
+   Hospede seu blog no Dreamhost! Acesso shell, 5TB de transferência
+   mensal e 500GB de armazenamento. Wordpress fácil e 1 domínio grátis.
+
+   (com desconto do BR-Linux)
+   Treinamento Plone 3
+
+   IFRAME:
+   http://www.linuxmall.com.br/index.php?page=categ/fil_d_mista&print=1&fi
+   l=litrix&limit=1&width=140&foto=1&lv=1&hw=1&ac=1&type=ds
+
+
+                               [ Geek Review ]
+
+
+   Fortaleza
+   Computadores
+   Notebooks
+   Planos de saúde
+   efetividade.net
+
+   Lifehacking e produtividade pessoal
+
+   Visite hoje mesmo!
+
+   Floripa
+
+   Poeira Cósmica
+
+   Não acredite em tudo que você lê!
+
+   (e leia sempre o rodapé...)
+
+     * Feed externo Efetividade.net
+          + Liderança: Aprenda a ser um bom ouvinte
+          + Dicas para seu celular e smartphone: ringtones mais discretos,
+            e bookmarklets interessantes
+          + Prepare-se para acordar bem, fazendo outro despertador tocar
+            toda noite às 22h
+          + Eee PC, da Asus: eu recomendo
+          + Como estar preparado para sua apresentação em sala de aula
+          + Como aumentar a duração da bateria do celular e smartphone
+     * Feed externo Rec6
+          + Rumor: Crysis para Xbox 360? - Antenando - Games [7 votos]
+          + Algo de podre na Wikipedia [9 votos]
+          + The Sims 3 a caminho - Antenando - Games [7 votos]
+          + Internet não combina com Publicidade « Shirakashi [6 votos]
+          + Camisetas `72 dpi´ | Eu Compraria! [6 votos]
+     * Feed externo Meio Bit
+          + Apple lança SDK do iPhone e mais uma coisinha. De US$100
+            milhões.
+          + Air, caramba!
+          + Usando o Putty para acessar a web em locais bloqueados via SSH
+            Tunneling
+          + O que você tem na cabeça?
+          + Internet Explorer 8 Beta 1 Disponível para Download
+     * [banner-linuxsec2.gif] [temporeal1.jpg] Visite sempre múltiplos
+       sites para formar sua opinião, pois os pontos de vista e os focos
+       de cobertura podem variar bastante. Conheça nossa lista de outros
+       sites da comunidade!
+     __________________________________________________________________
+
+   BR-Linux.org
+          Linux® levado a sério desde 1996. Notícias, dicas e tutoriais em
+          bom português sobre Linux e Código Aberto. "A página sobre
+          software livre mais procurada no Brasil", segundo a Revista
+          Isto É.
+
+   Expediente
+          Sobre o BR-Linux
+          Enviar notícia ou release
+          Contato, Termos de uso
+          FAQ, Newsletter, RSS
+          Banners e selos
+          Anunciar no BR-Linux
+
+   BR-Linux apóia
+          LinuxSecurity, Tempo Real
+          Suporte Livre, Drupal
+          Verdade Absoluta
+          Pandemonium
+          Efetividade, Floripa.net
+          sites da comunidade
+
+   Ajuda
+          Moderação
+          Flames: não responda!
+          Publicar seu texto
+          Notícias pré-2004
+          Tutoriais, HCL pré-2004
+
+   © Augusto Campos. Conteúdo disponível sob a licença livre FDL. Consulte
+   os termos de uso.
+
+   Linux é marca registrada de Linus Torvalds. Os direitos autorais de
+   todas as ilustrações pertencem aos respectivos autores, e elas são
+   reproduzidas na intenção de atender ao disposto no art. 46 da Lei 9.610
+   - se ainda assim alguma delas infringe direito seu, entre em contato
+   para que possamos removê-la imediatamente. O conteúdo textual original
+   desta página está disponível sob a licença GNU FDL 1.2. Leia os Termos
+   de Uso para saber mais detalhes - inclusive sobre a política em relação
+   aos comentários dos leitores.
+   Copyright © BR-Linux.org - Powered by WordPress
+   ProSense theme created by Dosh Dosh and The Wrong Advices.

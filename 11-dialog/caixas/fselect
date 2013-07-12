@@ -1,0 +1,4 @@
+dialog                              \
+   --title 'Escolha onde instalar'  \
+   --fselect /usr/share/vim/        \
+   0 0

@@ -1,0 +1,7 @@
+dialog                                           \
+   --title 'Pergunta'                            \
+   --radiolist 'Há quanto tempo você usa o Vi?'  \
+   0 0 0                                         \
+   iniciante  'até 1 ano'      on                \
+   experiente 'mais de 1 ano'  off               \
+   guru       'mais de 3 anos' off

@@ -1,0 +1,46 @@
+<!-- form.html - Exemplo simples de formulário -->
+
+<!-- Tag mãe de todas as outras. Abre e no início e só fecha na última linha. -->
+<html>
+
+<!-- Ah, é assim que se define um título para a janela do navegador -->
+<head>
+	<title>Meu primeiro formulário</title>
+</head>
+
+<!-- Agora começa a sua página -->
+<body>
+	
+<h1>Preencha seus dados</h1>
+
+<!-- Aqui começa o formulário -->
+<!-- O script form.sh é quem receberá os dados -->
+<form method="POST" action="form.sh">
+
+<p>Nome:
+<input type="text" name="nome" size="25">
+</p>
+
+<!-- Note que o alinhamento com espaços não interfere na página -->
+<p>Idade:
+<select name="idade">
+	<option value="17"   >Menos de 18  </option>
+	<option value="18-30">Entre 18 e 30</option>
+	<option value="31"   >Mais de 30   </option>
+</select>
+</p>
+
+<!-- Note que o Radio usa o mesmo "name" para ambos -->
+<p>Sexo:
+<input type="radio" name="sexo" value="F"> Feminino
+<input type="radio" name="sexo" value="M"> Masculino
+</p>
+
+<!-- O botão de envio -->
+<p><input type="submit" value="Enviar"></p>
+
+<!-- E fechamos o formulário -->
+</form>
+
+<!-- A tag mãe também deve ser fechada -->
+</html>

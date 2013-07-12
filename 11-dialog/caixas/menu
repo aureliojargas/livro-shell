@@ -1,0 +1,7 @@
+dialog                                       \
+   --title 'Perfil'                          \
+   --menu 'Escolha o perfil da instalação:'  \
+   0 0 0                                     \
+   mínima       'Instala o mínimo'           \
+   completa     'Instala tudo'               \
+   customizada  'Você escolhe'

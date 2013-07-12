@@ -1,0 +1,19 @@
+[base]
+LINUXCONF.distribution conectiva
+module.list 1 userinfo
+module.list 1 grubconf
+module.list 1 printer
+module.list 1 gurus
+module.list 1 managerpm
+module.list 1 vregistry
+module.list 1 status
+module.list 1 redhatppp
+module.list 1 syslogconf
+module.list 1 liloconf
+module.list 1 modemconf
+[stationid]
+html.bodyparm bgcolor=white background="/images:images/CNCfundo.jpg" text=darkblue vlink=gray link=red
+[noarch]
+linuxconf.lastlang pt_BR
+[hardware]
+lilo.isused 1

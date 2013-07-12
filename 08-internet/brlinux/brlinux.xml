@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://br-linux.org/linux" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BR-Linux.org - Linux levado a sério desde 1996</title>
+ <link>http://br-linux.org/linux</link>
+ <description></description>
+ <language>pt</language>
+<item>
+ <title>Instalando o modem Motorola SM56 &quot;manualmente&quot;</title>
+ <link>http://br-linux.org/linux/instalando-o-modem-motorola-sm56-manualmente</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;Se você procurar por material sobre o Motorola SM56 para GNU/Linux, você encontrará muitos depoimentos de dor de cabeça e dificuldades para configuração. A empresa produziu um driver que funciona apenas para a versão 2.4 do kernel. &lt;/p&gt;
+&lt;p&gt;Por conta disso, quando o blog Zumo noticiou que, em seus testes, o Ubuntu Gutsy reconheceu o modem SM56 e indicou um driver não-livre para ele, houve algum alvoroço na net sobre esta novidade.&lt;/p&gt;
+&lt;p&gt;Agora, se você quer instalar este modem em seu *Ubuntu Gutsy e está sem conexão com a Internet? Como instalar o modem &quot;manualmente&quot;? Você ainda precisará de um computador conectado com a rede, mas apenas para baixar os pacotes necessários e transportá-los ao seu *Ubuntu.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Filipe Saraiva (wolverlipe&amp;Theta;yahoo&amp;#183;com&amp;#183;br) - &lt;a href=&quot;http://liberdadenafronteira.blogspot.com/&quot;&gt;referência&lt;/a&gt; (liberdadenafronteira.blogspot.com)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/instalando-o-modem-motorola-sm56-manualmente#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/8">Distribuições</category>
+ <pubDate>Mon, 19 Nov 2007 10:30:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10837 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Vídeo: Novidades da próxima versão do Compiz Fusion</title>
+ <link>http://br-linux.org/linux/novidades-da-proxima-versao-do-compiz-fusion</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;Costumo seguir o gitweb do Compiz Fusion, assim mantenho-me atualizado das novidades, compilo alguns plugins experimentais, quebro a cara, mando bug reports e contribuo ao meu modo para o avanço do desktop 3d :) Deixo-vos portanto com alguns filmes que fiz com as novidades que ilustram o que teremos na próxima versão estável.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Paulo Dias (paulo&amp;#183;miguel&amp;#183;dias&amp;Theta;gmail&amp;#183;com) - &lt;a href=&quot;http://padoca.wordpress.com/2007/11/18/novidades-que-virao-na-nova-versao-do-compiz-fusion/&quot;&gt;referência&lt;/a&gt; (padoca.wordpress.com)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/novidades-da-proxima-versao-do-compiz-fusion#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/14">Aplicações</category>
+ <pubDate>Mon, 19 Nov 2007 10:30:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10838 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Fim do Kurumin? Ainda não. Alguém se habilita?</title>
+ <link>http://br-linux.org/linux/fim-do-kurumin-ainda-nao-alguem-se-habilita</link>
+ <description>&lt;p&gt;Leia também: &lt;a href=&quot;http://br-linux.org/linux/havera-uma-proxima-versao-do-kurumin-linux&quot;&gt;Kurumin Linux: haverá uma próxima versão?&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;Tendo em vista a repercussão da noticia anterior sobre o possível fim do Kurumin, Carlos Morimoto voltou a falar do assunto, deu algumas respostas a questionamentos e sugestões feitas por usuários e simpatizantes. Assim resolvi escrever novamente sobre o assunto:&lt;br /&gt;
+&lt;a href=&quot;http://www.maxraven.info/fim-do-kurumin-ainda-nao.html&quot;&gt;Fim do Kurumin? Ainda não&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De tudo isso destaco a resposta dada por ele à sugestão de repassar a distribuição ao desenvolvimento pela comunidade:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Com relação ao assunto principal, a mensagem que postei no outro tópico tinha como objetivo apenas dar uma satisfação a quem acompanha o sistema, não esperava que gerasse tanta repercussão. É importante lembrar que:&lt;/p&gt;
+&lt;p&gt;a) Não é uma decisão final, ou seja, caso consiga arrumar mais tempo para trabalhar no projeto posso continuá-lo por mais algumas versões. Entretanto isso é uma decisão particular, que não depende de comentários ou qualquer apoio externo.&lt;/p&gt;
+&lt;p&gt;b) Não pretendo fazer um trabalho “nas coxas”, continuando apenas por continuar, de forma que continuo apenas se for possível produzir atualizações com uma qualidade superior à atual.&lt;/p&gt;
+&lt;p&gt;c) Um grupo disposto a assumir o projeto seria bem-vindo, desde que formado por pessoas sérias, com tempo livre suficiente e com as habilidades técnicas necessárias.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Leia o &lt;a href=&quot;http://www.guiadohardware.net/comunidade/v-t/744335/6.html#post3344141&quot;&gt;Tópico do GdH&lt;/a&gt;. Repito aqui a pergunta que faço em meu texto:&lt;br /&gt;
+Alguem se habilita a continuar?&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Max Raven (max&amp;Theta;maxraven&amp;#183;info) - &lt;a href=&quot;http://www.guiadohardware.net/comunidade/v-t/744335/6.html#post3344141&quot;&gt;referência&lt;/a&gt; (guiadohardware.net)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/fim-do-kurumin-ainda-nao-alguem-se-habilita#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/121">Destaque</category>
+ <category domain="http://br-linux.org/linux/taxonomy/term/8">Distribuições</category>
+ <pubDate>Mon, 19 Nov 2007 10:23:20 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10846 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Opções de VoIP em plataformas livres</title>
+ <link>http://br-linux.org/linux/voip-na-plataforma-gnulinux</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;Já é possível substituir o telefone pelo PC nas ligações de longa distância. As opções são muitas. Normalmente, o bate-papo por voz podem ser dividido em ligações PC-para-PC e PC-para-telefone. Apenas as ligações PC-para-PC são grátis, enquanto que as ligações PC-para-telefone já podem ser realizadas a um preço muito baixo. &lt;a href=&quot;http://alexblog.eeol.org/linux/voip-na-plataforma-gnulinux/&quot;&gt;Neste artigo&lt;/a&gt;, analiso as opções da plataforma GNU/Linux de bate-papo por voz com as redes MSN, Skype e GTalk, dando dicas de como conversar com usuários do Windows. Também, mostro que já é possível fazer ligações para telefones fixos no Brasil a um preço de R$ 0,10 por ligação.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Alex França (josealexandre&amp;Theta;msn&amp;#183;com) - &lt;a href=&quot;http://alexblog.eeol.org/linux/voip-na-plataforma-gnulinux/&quot;&gt;referência&lt;/a&gt; (alexblog.eeol.org)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/voip-na-plataforma-gnulinux#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/14">Aplicações</category>
+ <pubDate>Mon, 19 Nov 2007 10:00:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10839 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>MPlayer promove inclusão digital de dispositivos com Windows Mobile</title>
+ <link>http://br-linux.org/linux/mplayer-promove-inclusao-digital-de-dispositivos-com-windows-mobile</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;O software livre de visualização de vídeo &lt;a href=http://www.mplayerhq.hu/design7/news.html&gt;MPlayer&lt;/a&gt; se destaca entre as demais alternativas de programas multimídia por sua versatilidade, e até mesmo fãs ardorosos do software proprietário reconhecem as suas vantagens. &lt;/p&gt;
+&lt;p&gt;Em plataformas móveis e embarcadas, esta versatilidade pode fazer alguma falta, pois os players de código fechado costumam se restringir aos formatos considerados &lt;i&gt;kosher&lt;/i&gt; por seus produtores - o que ajuda a explicar a relativa popularidade do descontinuado &lt;a href=http://picard.exceed.hu/tcpmp/test/&gt;TCPMP&lt;/a&gt; (que eu uso todos os dias no Palm).&lt;/p&gt;
+&lt;p&gt;E os usuários do Windows Mobile que se sentiam limitados pelo seu Media Player nativo  agora têm um motivo para acompanhar o desenvolvimento do Mplayer: ele &lt;a href=http://www.pocketpcmag.com/blogs/index.php?blog=3&amp;amp;title=breaking_news_infamous_top_linux_multime&amp;amp;more=1&amp;amp;c=1&amp;amp;tb=1&amp;amp;pb=1&gt;está sendo portado&lt;/a&gt; para esta plataforma, e assim o port para Windows em plataforma PC vai ganhar companhia. É isso aí, software livre também é inclusão.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Julio Pacheco  - &lt;a href=&quot;http://www.pocketpcmag.com/blogs/index.php?blog=3&amp;amp;title=breaking_news_infamous_top_linux_multime&amp;amp;more=1&amp;amp;c=1&amp;amp;tb=1&amp;amp;pb=1&quot;&gt;referência&lt;/a&gt; (pocketpcmag.com)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/mplayer-promove-inclusao-digital-de-dispositivos-com-windows-mobile#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/14">Aplicações</category>
+ <pubDate>Mon, 19 Nov 2007 09:30:01 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10831 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Vídeo-aulas de desenho de Mozart Couto - com GIMP</title>
+ <link>http://br-linux.org/linux/video-aulas-de-desenho-de-mozart-couto-com-gimp</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;O site &lt;a href=&quot;http://www.bigorna.net/index.php?secao=noticias&amp;amp;id=1195177646&quot;&gt;bigorna &lt;/a&gt; deu a noticia sobre vídeo-aulas de desenho de Mozart Couto usando GIMP. &lt;/p&gt;
+&lt;p&gt;Publicamos um artigo &lt;a href=&quot;http://www.ogimp.com.br/modules/smartsection/item.php?itemid=39&quot;&gt;Desenhando com a ferramenta “seleção livre”&lt;/a&gt; no &lt;a href=&quot;http://www.ogimp.com.br/modules/smartsection/item.php?itemid=39&quot;&gt;Ogimp&lt;/a&gt; do autor,  no final do artigo tem o video do artigo e o link para o blog do &lt;a href=&quot;http://blogdodesenhador.blogspot.com/&quot;&gt;autor&lt;/a&gt; que promete muito mais vídeos. São vídeos curtos mas altamente instrutivos, mesmo quem tem internet discada pode acompanhar tranqüilamente.&lt;/p&gt;
+&lt;p&gt;Para quem se queixava sobre falta de material sobre GIMP é uma boa pedida! Mas se você pode colaborar envie seu artigo, mesmo que o ache simples pois o maior nicho de usuarios na ferramenta é o iniciante.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Anderson Prado (andeonbr-ogimp&amp;Theta;yahoo&amp;#183;com&amp;#183;br) - &lt;a href=&quot;http://www.ogimp.com.br/modules/smartsection/item.php?itemid=39&quot;&gt;referência&lt;/a&gt; (ogimp.com.br)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/video-aulas-de-desenho-de-mozart-couto-com-gimp#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/14">Aplicações</category>
+ <pubDate>Mon, 19 Nov 2007 09:00:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10843 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Gerenciamento de atualizações : uma solução simples e eficaz</title>
+ <link>http://br-linux.org/linux/gerenciamento-de-atualizacoes--uma-solucao-simples-e-eficaz</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;Para aqueles, como eu, que precisam administrar dezenas de servidores e mantê-los atualizados em relação a aplicação de atualizações de segurança, a forma mais fácil de cumprir essa tarefa seria automatizá-la ao máximo.&lt;/p&gt;
+&lt;p&gt;Porém, quando o assunto é aplicação 100% automatizada de novas versões de pacotes de softwares em servidores de produção sem intervenção humana alguma, eu tendo a ter um nível de aceitação bastante baixo para essa idéia, por razões óbvias.&lt;/p&gt;
+&lt;p&gt;A solução, em meu caso, foi adotar uma solução que automatiza parcialmente o processo de gerenciamento de atualizações. A parte que exige mais participação intelectual, ou seja, a aplicação das atualizações propriamente ditas, eu mesmo prefiro executar manualmente, visto que posso interferir caso qualquer problema maior ocorra.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por André Luís Lopes (andrelop&amp;Theta;andrelop&amp;#183;org) - &lt;a href=&quot;http://www.andrelop.org/blog/2007/11/16/gerenciamento-de-atualizacoes-uma-solucao-simples-e-eficaz/&quot;&gt;referência&lt;/a&gt; (andrelop.org)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/gerenciamento-de-atualizacoes--uma-solucao-simples-e-eficaz#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/5">Administração</category>
+ <pubDate>Mon, 19 Nov 2007 09:00:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10845 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>I ECSL - I Encontro Cefetiano de Software Livre, em Sergipe</title>
+ <link>http://br-linux.org/linux/i-ecsl-i-encontro-cefetiano-de-software-livre</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;Olá a todos, estou aqui novamente para poder anunciar o I ECSL - I Encontro Cefetiano de Software Livre, que irá ocorrer em Sergipe, nos dias 11 e 12 de dezembro, inscrições gratuitas pelo site: &lt;a href=&quot;http://ecsl.blesshost.com.br/?q=node/4&quot; title=&quot;http://ecsl.blesshost.com.br/?q=node/4&quot;&gt;http://ecsl.blesshost.com.br/?q=node/4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;O evento também está oferecendo um espaço de 5 palestras para pessoas que estejam interessadas. Se tiver interesse use o seguinte link para efetuar sua submissão de palestra: &lt;a href=&quot;http://ecsl.blesshost.com.br/?q=node/7&quot; title=&quot;http://ecsl.blesshost.com.br/?q=node/7&quot;&gt;http://ecsl.blesshost.com.br/?q=node/7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;O evento irá ocorrer em Aracaju-SE, no CEFET-SE (Av. Eng. Gentil Tavares, 1166, Getulio Vargas). &amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Otávio Souza (aragao&amp;#183;otavio&amp;Theta;gmail&amp;#183;com) - &lt;a href=&quot;http://ecsl.blesshost.com.br/&quot;&gt;referência&lt;/a&gt; (ecsl.blesshost.com.br)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/i-ecsl-i-encontro-cefetiano-de-software-livre#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/6">Evento</category>
+ <pubDate>Mon, 19 Nov 2007 08:30:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10840 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>João Pessoa sedia o II Encontro de Software Livre da Paraíba</title>
+ <link>http://br-linux.org/linux/joao-pessoa-sedia-o-ii-encontro-de-software-livre-da-paraiba</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;Será realizado nos dias 2, 3 e 4 de maio de 2008, no Espaço Cultural José Lins do Rêgo, em João Pessoa - PB, o II Encontro Software Livre da Paraíba. Nesta edição contamos com a presença já confirmada de Jon &quot;Maddog&quot; Hall, pela primeira vez no Nordeste, e de Anahuac de Paula Gil.&lt;/p&gt;
+&lt;p&gt;O evento tem o tema Interatividade no Extremo. Dentre os macro-temas discutidos temos Ideologia, Comunidade, Segurança, Governo, Educação, Negócios e Inclusão Digital e Social.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Vítor Baptista (vitor&amp;Theta;vitorbaptista&amp;#183;com) - &lt;a href=&quot;http://www.ensol.org.br&quot;&gt;referência&lt;/a&gt; (ensol.org.br)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/joao-pessoa-sedia-o-ii-encontro-de-software-livre-da-paraiba#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/6">Evento</category>
+ <pubDate>Mon, 19 Nov 2007 08:00:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10836 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Permissões e propriedades de arquivos e diretórios no linux</title>
+ <link>http://br-linux.org/linux/permissoes-e-propriedades-de-arquivos-e-diretorios-no-linux</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;&quot;Inicio hoje uma série de artigos cujo tema será explicar as permissões e propriedades de arquivos e diretórios no linux. Antes de iniciarmos na questão das permissões, se faz necessário que tomemos conhecimento de alguns fatos, expostos no artigo.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Marcus Vinicius Bastos Leandro (mvleandro&amp;Theta;prosadigital&amp;#183;com) - &lt;a href=&quot;http://www.prosadigital.com/linux/permissoes-e-propriedades-de-arquivos-e-diretorios-no-linux-parte-1/&quot;&gt;referência&lt;/a&gt; (prosadigital.com)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/permissoes-e-propriedades-de-arquivos-e-diretorios-no-linux#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/4">Comunidade</category>
+ <pubDate>Mon, 19 Nov 2007 08:00:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10841 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>BIOS, Barramentos e o Linux</title>
+ <link>http://br-linux.org/linux/bios-barramentos-e-o-linux</link>
+ <description>&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;O Rafael Vieira,integrante do &lt;a href=&quot;http://gelsol.lia.ufc.br&quot;&gt;GELSoL&lt;/a&gt;, criou um artigo muito bom sobre BIOS e barramentos do PC, e como visualizar informações deles pelo Linux. Esse texto ainda faz uma introdução aos conceitos básicos de entrada e saída básica. &amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Hélio Rodrigues de Oliveira (heliorodrigues&amp;Theta;lia&amp;#183;ufc&amp;#183;br) - &lt;a href=&quot;http://gelsol.lia.ufc.br/wiki/Artigos/BIOSEBarramentos&quot;&gt;referência&lt;/a&gt; (gelsol.lia.ufc.br)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/bios-barramentos-e-o-linux#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/4">Comunidade</category>
+ <pubDate>Mon, 19 Nov 2007 08:00:00 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10844 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Os primeiros testes com o &quot;nosso&quot; Classmate</title>
+ <link>http://br-linux.org/linux/os-primeiros-testes-com-o-nosso-classmate</link>
+ <description>&lt;p&gt;Na semana passada &lt;a href=http://br-linux.org/linux/chegou-o-nosso-classmate-pc-que-testes-voce-quer-fazer&gt;recebemos, por cortesia da Intel, um Classmate PC&lt;/a&gt; com o Mandriva Linux (em inglês) instalado. &lt;/p&gt;
+&lt;p&gt;Já pude apurar que a versão do sistema operacional instalada no &lt;a href=http://www.efetividade.net/2007/05/06/notebook/&gt;notebook&lt;/a&gt; não é a definitiva - e naturalmente a versão distribuída no Brasil é em português. Além disso, os aplicativos educacionais que farão parte do pacote, desenvolvidos no Brasil, não estão presentes.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img src=http://trilux.org/img/noffo-classmate.jpg&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;Mesmo assim, vou cumprir o protocolo de testes inicialmente proposto, e entregar o subnotebook para duas alunas do ensino fundamental explorarem durante uma semana cada uma, e depois responderem o que acharam da máquina.&lt;/p&gt;
+&lt;p&gt;Por enquanto já fiz alguns testes de modo a compor minhas primeiras impressões, e gostei bastante dele como estação para acesso à Internet, mesmo com esta versão intermediária do software. O teclado e a tela são ambos minúsculos, mas não me atrapalharam - escrevi até mesmo uma coluna para a Linux Magazine nele, usando o OOo, e postei algumas notícias no BR-Linux a partir dele. A configuração da rede sem fio foi simples e imediata, e o Firefox simplesmente funcionou, incluindo plugins de uso comum, como Flash e Java. Passa com tranquilidade no teste do Youtube.&lt;/p&gt;
+&lt;p&gt;O teste mais interessante foi o da irmã. Minha irmã veio me visitar, queria checar e-mail e eu passei a ela o Classmate, sem dar nenhuma explicação. Ela me perguntou apenas login e senha, e quando eu levantei minutos depois para mostrar a ela como usar, ela já estava com o Gmail aberto, o Banco do Brasil em outra aba, e o Meebo em uma terceira.&lt;/p&gt;
+&lt;p&gt;Quanto a expansibilidade, pluguei teclado e mouse USB sem dificuldade nenhuma, e usei meu pen drive. Não testei nenhum outro periférico.  Leitores haviam perguntado sobre a presença de saída VGA para monitor externo, mas o Classmate não a tem. Mas o seu primo Eee PC tem. &lt;/p&gt;
+&lt;p&gt;Ouvi MP3 sem nenhum problema, e vi vídeos via Youtube. Mas todos os 4 vídeos que eu tinha no meu pen drive (MPEG e AVI) e testei não foram exibidos. Isso mesmo, 0% de sucesso quanto a eles - embora as respectivas trilhas de áudio tenham sido tocadas. Provavelmente é configurável, mas isso fugiria ao meu escopo de teste.&lt;/p&gt;
+&lt;p&gt;Houve também algumas perguntas sobre a possibilidade de boot por dispositivo externo e pela rede. Ambas as opções estão disponíveis na BIOS. Para quem não quiser dar boot pelo sistema operacional instalado, a BIOS tem opção de boot pela USB ou pelo &quot;Realtek Boot Agent&quot;, via rede.&lt;/p&gt;
+&lt;p&gt;Em breve trarei mais informações, quando as testadoras oficiais devolverem o equipamento!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://br-linux.org/linux/chegou-o-nosso-classmate-pc-que-testes-voce-quer-fazer&quot;&gt;Saiba mais&lt;/a&gt; (br-linux.org).&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/os-primeiros-testes-com-o-nosso-classmate#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/4">Comunidade</category>
+ <category domain="http://br-linux.org/linux/taxonomy/term/121">Destaque</category>
+ <category domain="http://br-linux.org/linux/taxonomy/term/57">notebook</category>
+ <pubDate>Sun, 18 Nov 2007 21:19:50 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10828 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>A semana no BR-Linux: 11 anos de BR-Linux!</title>
+ <link>http://br-linux.org/linux/retroweek-181107</link>
+ <description>&lt;p&gt;&lt;b&gt;Feliz aniversário, BR-Linux!&lt;/b&gt;   Na última quinta-feira, o BR-Linux comemorou seu 11&amp;ordm; aniversário. Parabéns a todos que contribuem para o sucesso do site, e obrigado por toda a colaboração, atenção e participação!&lt;/p&gt;
+&lt;p&gt;Para comemorar, no próximo final de semana estaremos dando início à votação dos Favoritos da Comunidade Linux Brasileira, edição 2007 - com o grande sorteio de brindes, como já é tradição ;-)  &lt;/p&gt;
+&lt;p&gt;Vamos às notícias que mais chamaram atenção do público durante a semana do aniversário:&lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/havera-uma-proxima-versao-do-kurumin-linux&gt;Kurumin Linux: haverá uma próxima versão? &lt;/a&gt; -  Carlos Morimoto divulgou estar considerando interromper ou mudar o foco do Kurumin Linux.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/desafio-da-google-valendo-de-us10-milhoes-&gt;Desafio da Google valendo de US$10 milhões: desenvolva um aplicativo para o Android! &lt;/a&gt; -  Programadores para plataformas embarcadas ou móveis, podem começar a se preparar.  &lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;a href=&#039;http://www.youtube.com/watch?v=_avwGFsv60U&#039; title=&#039;Android&#039;&gt;&lt;img width=422 height=315 title=&quot;android-noel.jpg&quot; src=http://trilux.org/img/android-noel.jpg&gt;&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/ainda-nao-e-o-gphone-mas&gt;Ainda não é o Gphone, mas… &lt;/a&gt; -  “O blog do Google Brasil anunciou oficialmente na véspera do feriado o Android, que, segundo eles, &quot;é a primeira plataforma para celular verdadeiramente aberta.  &lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img src=http://trilux.org/img/gil-stallman.jpg&gt;   &lt;br&gt; &lt;i&gt;&quot;Tropa de Elite, osso duro de roer ...&quot;&lt;/i&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/gil-o-ministro-hacker-tem-uma-solucao-para-reduzir-violencia-em-favelas&gt;Gil, o ministro hacker, tem uma solução para reduzir violência em favelas &lt;/a&gt; -  Que outro país tem um ministro de Estado que se declara hacker e é autor de uma obra sobre a Internet?  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/opendocument-foundation-fecha-as-portas&gt;OpenDocument Foundation fecha as portas - tchau! &lt;/a&gt; -  O Slashdot informou que a OpenDocument Foundation - a mesma que recentemente se esforçou para fazer um barulho danado sobre abandonar seu (parco) suporte ao ODF - fechou as portas.  &lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img width=350 height=281 title=&quot;eee_pc-easy.jpg&quot; src=http://trilux.org/img/eee_pc-easy.jpg&gt;&lt;/center&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/11-anos-de-br-linux-ja-podemos-torcer-pelo-nosso-eee-pc&gt;11 anos de BR-Linux: Já podemos torcer pelo &quot;nosso&quot; (talvez &quot;seu&quot;) Eee PC &lt;/a&gt; -  &quot;Amanhã o BR-Linux faz 11 anos, e ainda estou recebendo as suas sugestões para a eleição dos Favoritos de 2007, que servirá para marcar o aniversário.&quot;  &lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img width=320 height=266 title=&quot;eee-newegg.jpg&quot; src=http://trilux.org/img/eee-newegg.jpg&gt;&lt;/center&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/11-anos-de-br-linux-parabens-e-mais-sobre-o-nosso-eee-pc&gt;11 anos de BR-Linux - parabéns! - e mais sobre o &quot;nosso&quot; Eee PC &lt;/a&gt; - Quase garantido!&lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/fedora-8-54.000-downloads-em-3-dias&gt;Fedora 8: 54.000 downloads em 3 dias &lt;/a&gt; -  “Distribuição foca na customização, portabilidade e inovações técnicas.  &lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img width=181 height=320 title=&quot;evergreen-gpc.jpg&quot; src=http://trilux.org/img/evergreen-gpc.jpg&gt;&lt;/center&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/sucesso-de-publico-esgota-o-computador-para-todos-norte-americano-com-gos&gt;Sucesso de público: Esgota o Computador para Todos norte-americano com gOS &lt;/a&gt; -  Por lá, o PC popular com Linux esgota em uma semana, e recebe análises positivas. Qual o segredo?&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img width=320 height=260 title=&quot;blue_fedora.png&quot; src=http://trilux.org/img/blue_fedora.png&gt;&lt;/center&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/lancado-o-fedora-8-werewolf&gt;Lançado o Fedora 8 Werewolf &lt;/a&gt; -  Já está disponível para download o Fedora 8 Werewolf.  &lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img width=125 height=167 title=&quot;lj-cover163.small.png&quot; src=http://trilux.org/img/lj-cover163.small.png&gt;&lt;/center&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/edicao-gratis-do-linux-journal&gt;Download da revista: Edição grátis do Linux Journal &lt;/a&gt; -  “A versão digital da edição deste mês da Linux Journal está sendo disponibilizada gratuitamente no site, bastando informar um endereço de e-mail para receber o link para download.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/ubuntu-pode-emplacar-nos-servidores-dell-em-2008&gt;Ubuntu pode emplacar nos servidores Dell em 2008 &lt;/a&gt; -  O primeiro grande avanço do Ubuntu nos servidores?&lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/com-us-399-voce-pode-encomendar-seu-laptop-de-us-100-do-olpc-hoje-mesmo&gt;Com US$ 399 você pode encomendar seu laptop de US$ 100 do OLPC hoje mesmo! &lt;/a&gt; -  O primeiro passo é se mudar para os EUA ou o Canadá.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=http://br-linux.org/linux/dataprev-disponibiliza-o-programa-cocar&gt;Dataprev disponibiliza o programa Cocar &lt;/a&gt; -  “A Dataprev (Empresa de Tecnologia e Informações da Previdência Social) disponibilizou para download, no Portal do Software Público Brasileiro (&lt;a href=&quot;http://www.softwarepublico.gov.br&quot; title=&quot;www.softwarepublico.gov.br&quot;&gt;www.softwarepublico.gov.br&lt;/a&gt;), o programa Cocar, um sistema de administração de redes de computadores que permite monitorar o tráfego entre as máquinas de forma centralizada.  &lt;/p&gt;
+&lt;p&gt;E mais:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/a-portaria-da-sua-empresa-tem-pc-rodando-linux&gt;A portaria da sua empresa tem PC rodando Linux? &lt;/a&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/amsn-msn-com-webcam-e-winks-no-linux&gt;aMSN: MSN com webcam e winks no Linux &lt;/a&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/para-que-servem-as-redes-mesh-do-olpc&gt;Para que servem as redes mesh do OLPC? &lt;/a&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/info-testa-o-eee-pc-que-sera-vendido-no-brasil&gt;Info testa o Eee PC que será vendido no Brasil &lt;/a&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/gos-screenshots-e-download-do-nao-google-os&gt;gOS: screenshots e download do (não-)Google OS &lt;/a&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/ironico-plagio-contra-a-wikipedia&gt;Irônico plágio contra a Wikipédia &lt;/a&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/vnc-facil-no-ubuntu&gt;VNC fácil no Ubuntu &lt;/a&gt;
+&lt;li&gt;&lt;a href=http://br-linux.org/linux/e-saiu-o-google-phone-ou-quase&gt;Saiu o Google Phone - ou quase. E roda Linux! &lt;/a&gt;
+&lt;/ul&gt;
+</description>
+ <comments>http://br-linux.org/linux/retroweek-181107#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/121">Destaque</category>
+ <category domain="http://br-linux.org/linux/taxonomy/term/123">Retrospectiva</category>
+ <category domain="http://br-linux.org/linux/taxonomy/term/12">BR-Linux</category>
+ <pubDate>Sun, 18 Nov 2007 15:41:14 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10827 at http://br-linux.org/linux</guid>
+</item>
+<item>
+ <title>Mais sobre o Ubuntu Mobile and Embedded</title>
+ <link>http://br-linux.org/linux/mais-sobre-o-ubuntu-mobile-and-embedded</link>
+ <description>&lt;p&gt;Leia também: &lt;a href=&quot;http://br-linux.org/linux/ubuntu-tera-edicao-especial-para-dispositivos-moveis-a-partir-da-proxima-versao&quot;&gt;Ubuntu terá edição especial para dispositivos móveis&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=usertext&gt;&lt;p&gt;
+&amp;ldquo;A plataforma Ubuntu está ganhando bastante força e promete expandir bem mais seus horizontes em breve com o projeto &lt;a href=https://wiki.ubuntu.com/MobileAndEmbedded&gt;Ubuntu Mobile and Embedded&lt;/a&gt;. Este projeto é o resultado de uma parceria entre a Intel e a Canonical. A Intel quer popularizar os seus dispositivos ultra-móveis e o Ubuntu quer aumentar o seu alcance, uma parceria com resultados positivos para ambas as partes.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img width=400 height=236 title=&quot;ume_ui_hildon_parts.jpg&quot; src=http://trilux.org/img/ume_ui_hildon_parts.jpg&gt;&lt;/center&gt;  &lt;/p&gt;
+&lt;p&gt;O Ubuntu Mobile and Embedded vai ser uma plataforma para rodar em UMPCs (&quot;computadores ultra-móveis&quot;), tablet PCs e outros dispositivos que utilizarem os chips x86 da Intel. Aparelhos serão criados especificamente para rodar o Ubuntu Mobile e serão lançados somente no próximo ano, enquanto isso os testes estão sendo feitos em aparelhos como Samsung Q1 Ultra, e HTC Shift. Mais um concorrente do Windows Mobile.&lt;/p&gt;
+&lt;p&gt;A proposta não é de criar uma plataforma para celulares e smartphones como o Android. O foco do projeto é mesmo em UMPCs e dispositivos semelhantes para funcionarem com menos gasto de energia mantendo um nível de desempenho alto. Serão enfatizados programas que utilizam acesso à internet como email, mensageiro instantâneo e navegador.&lt;/p&gt;
+&lt;p&gt;Outra notícia boa é que o usuário vai interagir com todo o sistema simplesmente tocando na tela. O Ubuntu Mobile and Embedded já começou a ser desenvolvido mas ainda está em fase alpha. Você pode conferir mais informações pelo Wiki do projeto.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Enviado por Danilo da Silva (danilo&amp;Theta;solutio360&amp;#183;com) - &lt;a href=&quot;http://www.solutio360.com/index.php/Tecnologia/Ubuntu-Mobile.html&quot;&gt;referência&lt;/a&gt; (solutio360.com)..&lt;/p&gt;
+</description>
+ <comments>http://br-linux.org/linux/mais-sobre-o-ubuntu-mobile-and-embedded#comments</comments>
+ <category domain="http://br-linux.org/linux/taxonomy/term/4">Comunidade</category>
+ <pubDate>Sat, 17 Nov 2007 19:39:57 -0200</pubDate>
+ <dc:creator>brain</dc:creator>
+ <guid isPermaLink="false">10826 at http://br-linux.org/linux</guid>
+</item>
+</channel>
+</rss>

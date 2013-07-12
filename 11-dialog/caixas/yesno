@@ -1,0 +1,5 @@
+dialog                                          \
+   --title 'AVISO'                              \
+   --yesno '\nO Vi foi instalado e configurado.
+            \nVocê quer executá-lo agora?\n\n'  \
+   0 0

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.3.3" -->
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	>
+
+<channel>
+	<title>BR-Linux.org</title>
+	<link>http://br-linux.org</link>
+	<description>Linux levado a sério desde 1996</description>
+	<pubDate>Fri, 07 Mar 2008 14:30:00 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.3.3</generator>
+	<language>en</language>
+			<item>
+		<title>Ubuntu 8.04 Hardy Heron Alpha 6</title>
+		<link>http://br-linux.org/2008/ubuntu-804-hardy-heron-alpha-6/</link>
+		<comments>http://br-linux.org/2008/ubuntu-804-hardy-heron-alpha-6/#comments</comments>
+		<pubDate>Fri, 07 Mar 2008 14:30:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Distribuições]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/ubuntu-804-hardy-heron-alpha-6/</guid>
+		<description><![CDATA[
+“Sai o último Alpha da próxima versão do Ubuntu 8.04 Hardy Heron, com previsão final para o dia 24 de Abril e ainda com o lançamento de uma versão Beta dia 20 deste mês. Veja como baixar e como se tornar tradutor no link da notícia.”
+Enviado por André Gondim (andregondimΘubuntu·com) - referência (andregondim.eti.br).
+]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“Sai o último Alpha da próxima versão do Ubuntu 8.04 Hardy Heron, com previsão final para o dia 24 de Abril e ainda com o lançamento de uma versão Beta dia 20 deste mês. Veja como baixar e como se tornar tradutor no link da notícia.”</p></blockquote>
+<p>Enviado por André Gondim (andregondimΘubuntu·com) - <a href="http://andregondim.eti.br/?p=278">referência</a> (andregondim.eti.br).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/ubuntu-804-hardy-heron-alpha-6/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Lançado o KDE 4.0.2</title>
+		<link>http://br-linux.org/2008/lancado-o-kde-402/</link>
+		<comments>http://br-linux.org/2008/lancado-o-kde-402/#comments</comments>
+		<pubDate>Fri, 07 Mar 2008 14:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Aplicações]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/lancado-o-kde-402/</guid>
+		<description><![CDATA[
+“Acabamos de lançar o KDE 4.0.2, com as seguintes novidades: novos recursos do Plasma e opções de configuração do painel, novas traduções, várias correções e melhorias no Kopete, Okular e KHTML.”
+Enviado por Sebastian Kuegler  - referência (kde.org).
+]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“Acabamos de lançar o KDE 4.0.2, com as seguintes novidades: novos recursos do Plasma e opções de configuração do painel, novas traduções, várias correções e melhorias no Kopete, Okular e KHTML.”</p></blockquote>
+<p>Enviado por Sebastian Kuegler  - <a href="http://www.kde.org/announcements/announce-4.0.2.php">referência</a> (kde.org).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/lancado-o-kde-402/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Shuttle PC com Foresight Linux</title>
+		<link>http://br-linux.org/2008/shuttle-pc-com-foresight-linux/</link>
+		<comments>http://br-linux.org/2008/shuttle-pc-com-foresight-linux/#comments</comments>
+		<pubDate>Fri, 07 Mar 2008 13:30:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Mercado]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/shuttle-pc-com-foresight-linux/</guid>
+		<description><![CDATA[
+“A Shuttle PC anunciou na CES 2008 o lançamento de seus PCs SFF (Small Form Factor), anunciados com o valor de US$199. As configurações dele são bem básicas, processador intel celeron, video intel graphics, HD 80G, 512Mb Ram, porém toda configuração expansível. Em anúncio feito em seu próprio site de noticias, a Shuttle disse algumas [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“A Shuttle PC anunciou na CES 2008 o lançamento de seus PCs SFF (Small Form Factor), anunciados com o valor de US$199. As configurações dele são bem básicas, processador intel celeron, video intel graphics, HD 80G, 512Mb Ram, porém toda configuração expansível. Em anúncio feito em seu próprio site de noticias, a Shuttle disse algumas palavras sobre a escolha do sistema operacional, que será o Foresight Linux, “Escolhemos ele por ter uma interface intuitiva e ser focado no design”. Ontemenviei um e-mail para eles e logo fui respondido, eles ainda não estão vendendo, mais esperam exportar para nós brasileiros em breve. Tentarei manter contato com eles para mais informações.”</p></blockquote>
+<p>Enviado por Pedro Costa Neves (neoΘpersocon·org) - <a href="http://persocon.org/index.php/2008/shuttle-pc-com-foresight-linux/">referência</a> (persocon.org).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/shuttle-pc-com-foresight-linux/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>CeBIT 2008: Tela multi-toques</title>
+		<link>http://br-linux.org/2008/cebit-2008-tela-multi-toques/</link>
+		<comments>http://br-linux.org/2008/cebit-2008-tela-multi-toques/#comments</comments>
+		<pubDate>Fri, 07 Mar 2008 13:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Aplicações]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/cebit-2008-tela-multi-toques/</guid>
+		<description><![CDATA[
+“Pascal Schmitt demonstrou sua mesa luminosa sensível a múltiplos toques (multi-touchscreen é o nome técnico), assim como alguns aplicativos que ele já desenvolveu para ela. Na base do aparelho, Linux e outros softwares de Código Aberto.
+O mote da mesa luminosa do desenvolvedor é &#8220;Por favor toque&#8221; e, diferentemente das telas sensíveis ao toque convencionais, esta [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“Pascal Schmitt demonstrou sua mesa luminosa sensível a múltiplos toques (multi-touchscreen é o nome técnico), assim como alguns aplicativos que ele já desenvolveu para ela. Na base do aparelho, Linux e outros softwares de Código Aberto.</p>
+<p>O mote da mesa luminosa do desenvolvedor é &#8220;Por favor toque&#8221; e, diferentemente das telas sensíveis ao toque convencionais, esta pode ser utilizada por múltiplas pessoas ao mesmo tempo. Como os programas atuais não são programados para lidar com mais de um dispositivo apontador, o desenvolvedor de 20 anos desenvolveu seus próprios aplicativos, incluindo um programa de mapeamento de memória e um outro que exibe teclados na tela. O mapeador de memória precisa da interação de duas mãos, e cada um dos teclados mostrados na mesa luminosa pode ter múltiplas teclas pressionadas simultaneamente.”</p></blockquote>
+<p>Enviado por Pablo Hess (phessΘlinuxnewmedia·com·br) - <a href="http://www.linuxmagazine.com.br/noticia/cebit_2008_tela_multi_toques">referência</a> (linuxmagazine.com.br).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/cebit-2008-tela-multi-toques/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Treinamento Básico e Avançado de Asterisk</title>
+		<link>http://br-linux.org/2008/treinamento-basico-e-avancado-de-asterisk/</link>
+		<comments>http://br-linux.org/2008/treinamento-basico-e-avancado-de-asterisk/#comments</comments>
+		<pubDate>Fri, 07 Mar 2008 12:30:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Anúncio]]></category>
+
+		<category><![CDATA[Curso]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/treinamento-basico-e-avancado-de-asterisk/</guid>
+		<description><![CDATA[
+“Venha participar do Treinamento Avançado de Asterisk, um curso inovador com aulas 90% práticas, desenvolvendo laboratórios com as placas DIGIUM, DIGIVOICE e KHOMP. Além de aprender a configurar cartões pré-pagos, alta disponibilidade, fax, entre outros. Confira!
+O treinamento avançado ocorrerá em Florianópolis,  nos dias 31 de março, 01, 02 e 03 de abril de 2008.
+Se [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“Venha participar do Treinamento Avançado de Asterisk, um curso inovador com aulas 90% práticas, desenvolvendo laboratórios com as placas DIGIUM, DIGIVOICE e KHOMP. Além de aprender a configurar cartões pré-pagos, alta disponibilidade, fax, entre outros. Confira!</p>
+<p>O treinamento avançado ocorrerá em Florianópolis,  nos dias 31 de março, 01, 02 e 03 de abril de 2008.</p>
+<p>Se você ainda não possui o pré-requisito para o Treinamento Avançado faça o Treinamento de Asterisk básico antes nas seguintes datas e Capitais:</p>
+<p>- Belo Horizonte: Dias 10, 11, 12, 13 e 14 de março de 2008.<br />
+- Salvador: Dias 10, 11, 12, 13 e 14 de março de 2008.<br />
+- Florianópolis: Dias 10, 11, 12, 13 e 14 de março de 2008.<br />
+- Fortaleza: Dias 24, 25, 26, 27 e 28 de março de 2008.<br />
+- Campo Grande: Dias 07, 08, 09,10 e 11 de abril de 2008.<br />
+- São Paulo: Dias 07, 08, 09,10 e 11 de abril de 2008.<br />
+- Curitiba: Dias 14, 15, 16, 17 e 18 de abril de 2008.<br />
+- Recife: Dias 14, 15, 16, 17 e 18 de abril de 2008. </p>
+<p>     Maiores informações: 48 3025 8575 ou treinamento@voffice.com.br.”</p></blockquote>
+<p>Enviado por VOffice  - <a href="http://www.voffice.com.br">referência</a> (voffice.com.br). A VOffice é anunciante do BR-Linux.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/treinamento-basico-e-avancado-de-asterisk/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Driver ATI 8.3 disponível para Linux</title>
+		<link>http://br-linux.org/2008/driver-ati-83-disponivel-para-linux/</link>
+		<comments>http://br-linux.org/2008/driver-ati-83-disponivel-para-linux/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 20:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Aplicações]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/driver-ati-83-disponivel-para-linux/</guid>
+		<description><![CDATA[
+“Conforme notícia oficial, foi disponibilizado uma nova atualização do driver para placas de vídeo ATI. A versão 8.3 (ou 8.471 no padrão de versões antigo) trás novidades e correções, entre elas:
+    * Esta versão introduz a extensão Xvideo para escalonamento de vídeo para a série Xpress 1200.
+    * Aplicações [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“Conforme notícia oficial, foi disponibilizado uma nova atualização do driver para placas de vídeo ATI. A versão 8.3 (ou 8.471 no padrão de versões antigo) trás novidades e correções, entre elas:</p>
+<p>    * Esta versão introduz a extensão Xvideo para escalonamento de vídeo para a série Xpress 1200.<br />
+    * Aplicações 3D não mais sofrerão distorções quando a largura da resolução não for um inteiro múltiplo de 64 pixels, por exemplo com uma resolução widescreen de 1680×1050.<br />
+    * Sem distorções de tela ao iniciar o protetor de tela no gnome.<br />
+    * Muitos problemas de brilho e correção-gama doram resolvidos. Definindo a correção-gamma através da utilização do xgamma, fglrx_xgamma, xorg.conf e também em OpenGL games funcionarão corretamente.<br />
+    * A distorção diagonal presente em players de vídeo que utilizam a extensão Xvideo não será mais apresentada.<br />
+    * A reprodução de vídeo não parecerá mais quadriculada utilizando players com sobre a extensão Xvideo.”</p></blockquote>
+<p>Enviado por Joel Teixeira (joelteixeiraΘgmail·com) - <a href="http://joelteixeira.net/archives/driver-ati-83-disponivel-para-linux/">referência</a> (joelteixeira.net).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/driver-ati-83-disponivel-para-linux/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Fundações GNOME e Mozilla anunciam cooperação</title>
+		<link>http://br-linux.org/2008/fundacoes-gnome-e-mozilla-anunciam-cooperacao/</link>
+		<comments>http://br-linux.org/2008/fundacoes-gnome-e-mozilla-anunciam-cooperacao/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 19:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Mercado]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/fundacoes-gnome-e-mozilla-anunciam-cooperacao/</guid>
+		<description><![CDATA[A GNOME Foundation e a Mozilla Foundation anunciaram que vão cooperar mais de perto no futuro, incluindo a participação da Mozilla no conselho do GNOME, trabalho conjunto no XUL e Firefox, e uma doação de US$ 10.000 ao recém anunciado programa de acessibilidade da fundação GNOME.
+Saiba mais (lwn.net).
+]]></description>
+			<content:encoded><![CDATA[<p>A GNOME Foundation e a Mozilla Foundation anunciaram que vão cooperar mais de perto no futuro, incluindo a participação da Mozilla no conselho do GNOME, trabalho conjunto no XUL e Firefox, e uma doação de US$ 10.000 ao recém anunciado <a href=http://www.gnome.org/press/releases/gop-a11y.html>programa de acessibilidade</a> da fundação GNOME.</p>
+<p><a href="http://lwn.net/Articles/271795/rss">Saiba mais</a> (lwn.net).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/fundacoes-gnome-e-mozilla-anunciam-cooperacao/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Atualização do dicionário de português do Brasil para Aspell e Vim</title>
+		<link>http://br-linux.org/2008/atualizacao-do-dicionario-de-portugues-do-brasil-para-aspell-e-vim/</link>
+		<comments>http://br-linux.org/2008/atualizacao-do-dicionario-de-portugues-do-brasil-para-aspell-e-vim/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 18:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Aplicações]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/atualizacao-do-dicionario-de-portugues-do-brasil-para-aspell-e-vim/</guid>
+		<description><![CDATA[
+“Essa nova versão traz todas as melhorias do Verificador Ortográfico (VERO) do BrOffice.org. O recurso mais notável é o suporte a ênclise e mesóclise, que é ainda mais útil graças à habilidade do Aspell e do Vim de considerar o hífen como parte da palavra. Existem ainda novidades específicas para o Aspell e para o [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“Essa nova versão traz todas as melhorias do Verificador Ortográfico (VERO) do BrOffice.org. O recurso mais notável é o suporte a ênclise e mesóclise, que é ainda mais útil graças à habilidade do Aspell e do Vim de considerar o hífen como parte da palavra. Existem ainda novidades específicas para o Aspell e para o Vim, tanto para os usuários finais quando no processo de manutenção. Uso cotidianamente, e estou muito satisfeito. Espero que, em breve, vocês também!”</p></blockquote>
+<p>Enviado por Leonardo Fontenelle (leo·fontenelleΘgmail·com) - <a href="http://leonardof.org/2008/03/01/atualizacao-do-dicionario-de-portugues-para-vim-e-para-aspell/pt/">referência</a> (leonardof.org).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/atualizacao-do-dicionario-de-portugues-do-brasil-para-aspell-e-vim/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>&#8220;OOXML: Está rolando um barraco na ISO&#8221;</title>
+		<link>http://br-linux.org/2008/ooxml-esta-rolando-um-barraco-na-iso/</link>
+		<comments>http://br-linux.org/2008/ooxml-esta-rolando-um-barraco-na-iso/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 17:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Mercado]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/ooxml-esta-rolando-um-barraco-na-iso/</guid>
+		<description><![CDATA[Leia também: OpenXML: Afinal: O que fomos fazer em Genebra?
+Do relato de Avi Alkalay: &#8220;Veja como as coisas são… Segundo o post do Jomar que esteve no BRM da ISO, um cidadão chegou nele num intervalo e sutilmente pediu para que não levantasse uma questão importante no processo do OOXML da Microsoft virar ou não [...]]]></description>
+			<content:encoded><![CDATA[<p>Leia também: <a href="http://br-linux.org/2008/openxml-afinal-o-que-fomos-fazer-em-genebra/">OpenXML: Afinal: O que fomos fazer em Genebra?</a></p>
+<p>Do relato de Avi Alkalay: &#8220;Veja como as coisas são… Segundo o post do Jomar que esteve no BRM da ISO, um cidadão chegou nele num intervalo e sutilmente pediu para que não levantasse uma questão importante no processo do OOXML da Microsoft virar ou não um padrão ISO: a inexistência do mapeamento entre o formato legado (ex: .doc) e o formato novo (ex: .docx). Sem esse mapeamento, o propósito primordial da existência do OOXML como padrão ISO deixa de existir. </p>
+<p>(&#8230;) Se esse mapeamento não fizer parte da especificação OOXML, seu objetivo primordial é inválido. A especificação é inválida. E a delegação brasileira queria levantar essa bola: cadê o mapeamento? (&#8230;) O que me escapa o entendimento é por que a ISO não deixou o Brasil apresentar esse questionamento?&#8221;</p>
+<p><a href="http://avi.alkalay.net/2008/03/ooxml-esta-rolando-um-barraco-na-iso.html">Saiba mais</a> (avi.alkalay.net).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/ooxml-esta-rolando-um-barraco-na-iso/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Mais uma bolsa de trabalho com Linux, na UFF/Niterói</title>
+		<link>http://br-linux.org/2008/mais-uma-bolsa-de-trabalho-com-linux-na-uffniteroi/</link>
+		<comments>http://br-linux.org/2008/mais-uma-bolsa-de-trabalho-com-linux-na-uffniteroi/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 16:30:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Anúncio]]></category>
+
+		<category><![CDATA[Emprego]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/mais-uma-bolsa-de-trabalho-com-linux-na-uffniteroi/</guid>
+		<description><![CDATA[
+“Temos disponível, para implementação imediata, uma bolsa de nível médio (R$ 300,00 mensais por dez horas semanais), para administração de sistemas GNU/Linux. O Instituto de Física é o mais antigo pólo de software livre da Universidade Federal Fluminense, em Niterói. A atividade prevista consiste na instalação e manutenção dos clusters e laboratórios de cálculo numérico [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“Temos disponível, para implementação imediata, uma bolsa de nível médio (R$ 300,00 mensais por dez horas semanais), para administração de sistemas GNU/Linux. O Instituto de Física é o mais antigo pólo de software livre da Universidade Federal Fluminense, em Niterói. A atividade prevista consiste na instalação e manutenção dos clusters e laboratórios de cálculo numérico e simulações, com considerações de segurança, performance, etc. Os servidores e desktops rodam principalmente Debian (o que significa pouco trabalho ;-) ).</p>
+<p>Existe uma grande flexibilidade de horários, o que facilita a vida de estudantes interessados, por exemplo. Os interessados podem enviar email, com breve descrição do seu nível de conhecimento de GNU/Linux, para operador@if.uff.br. Não é necessário ser estudante da UFF.  P.S.: para comprovar o reconhecimento do trabalho aqui, a bolsa está disponível pois o ocupante anterior foi contratado por uma empresa de inovação tecnológica, levando em conta o trabalho realizado aqui no IFUFF.”</p></blockquote>
+<p>Enviado por Thadeu Penna (thadeu·pennaΘgmail·com) - <a href="http://profs.if.uff.br/tjpp/blog/entradas/mais-uma-bolsa-de-trabalho-com-linux-no-ifuff">referência</a> (profs.if.uff.br).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/mais-uma-bolsa-de-trabalho-com-linux-na-uffniteroi/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Repórter se disfarça de consumidor e vai ao varejo ver como as lojas oferecem os micros com Linux</title>
+		<link>http://br-linux.org/2008/reporter-se-disfarca-de-consumidor-e-vai-ao-varejo-ver-como-as-lojas-oferecem-os-micros-com-linux/</link>
+		<comments>http://br-linux.org/2008/reporter-se-disfarca-de-consumidor-e-vai-ao-varejo-ver-como-as-lojas-oferecem-os-micros-com-linux/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 14:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Imprensa]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/reporter-se-disfarca-de-consumidor-e-vai-ao-varejo-ver-como-as-lojas-oferecem-os-micros-com-linux/</guid>
+		<description><![CDATA[
+“É muito relevante da uma olhada nessa reportagem feita por um jornalista da IDGNow, que fingiu ser um usuário e visitou 3 grandes varejistas para pesquisar sobre o Computador para Todos com Linux. Destaque para alguns vendedores, que deixaram bem claro sua opinião sobre o Linux: “O Linux até pra gente é difícil de trabalhar. [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“É muito relevante da uma olhada nessa reportagem feita por um jornalista da IDGNow, que fingiu ser um usuário e visitou 3 grandes varejistas para pesquisar sobre o Computador para Todos com Linux. Destaque para alguns vendedores, que deixaram bem claro sua opinião sobre o Linux: “O Linux até pra gente é difícil de trabalhar. Pelo menos bastante gente já falou que é mais difícil trabalhar com Linux. Tô dizendo que é pior? Não também. Só que o brasileiro está muito acostumado com a Microsoft, desde o Windows 95”. Legal saber como está sendo realmente disseminada a imagem do Linux para as massas.”</p></blockquote>
+<p>Enviado por suxsys (suxsysΘgmail·com) - <a href="http://idgnow.uol.com.br/computacao_pessoal/2008/03/05/lojistas-se-dividem-entre-elogiar-linux-e-incentivar-migracao-para-windows/">referência</a> (idgnow.uol.com.br).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/reporter-se-disfarca-de-consumidor-e-vai-ao-varejo-ver-como-as-lojas-oferecem-os-micros-com-linux/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Pai do Java pede: parem de usar Emacs!</title>
+		<link>http://br-linux.org/2008/pai-do-java-pede-parem-de-usar-emacs/</link>
+		<comments>http://br-linux.org/2008/pai-do-java-pede-parem-de-usar-emacs/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 13:40:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Desenvolvedores]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/pai-do-java-pede-parem-de-usar-emacs/</guid>
+		<description><![CDATA[O que me surpreendeu mais nesta história foi descobrir que James Gosling, conhecido como &#8220;pai do Java&#8221;, também é um dos pais do Emacs: a sua implementação foi a primeira para UNIX, e trechos de código dela foram inclusive aproveitados anos depois por Richard Stallman quando ele lançou a primeira versão do GNU Emacs.
+Mas para [...]]]></description>
+			<content:encoded><![CDATA[<p>O que me surpreendeu mais nesta história foi descobrir que James Gosling, conhecido como &#8220;pai do Java&#8221;, também é um dos pais do Emacs: a sua implementação foi a primeira para UNIX, e trechos de código dela foram inclusive aproveitados anos depois por Richard Stallman quando ele lançou a primeira versão do GNU Emacs.</p>
+<p>Mas para Gosling o ambiente oferecido pelo Emacs não evoluiu o suficiente nestes 30 anos para ainda fazer frente a outros ambientes modernos (e também livres) de desenvolvimento. Por esta razão, quando ele perguntou em uma palestra quantas pessoas da audiência ainda usavam o Emacs, e algumas dúzias ergueram as mãos, ele pediu: simplesmente parem. Minha teoria é que o pessoal do vi deve ter pago uma nota preta a ele!</p>
+<p><a href="http://www.computerworld.com.au/index.php/id;170166942;fp;16;fpid;1">Saiba mais</a> (computerworld.com.au).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/pai-do-java-pede-parem-de-usar-emacs/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>OpenXML: Afinal: O que fomos fazer em Genebra?</title>
+		<link>http://br-linux.org/2008/openxml-afinal-o-que-fomos-fazer-em-genebra/</link>
+		<comments>http://br-linux.org/2008/openxml-afinal-o-que-fomos-fazer-em-genebra/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 13:30:26 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Comunidade]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/openxml-afinal-o-que-fomos-fazer-em-genebra/</guid>
+		<description><![CDATA[
+&#8220;Relato de Jomar Silva - ODL Alliance Chapter Brasil
+Desde que foi publicado na tarde de hoje um post no blog do Rob Weir (um dos membros da delegação americana) tratando sobre mapeamento dos dados binários, já recebi telefonemas e e-mails de colegas que participaram das discussões sobre o tema no Brasil me perguntando o motivo [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+&ldquo;Relato de Jomar Silva - ODL Alliance Chapter Brasil</p>
+<p>Desde que foi publicado na tarde de hoje um post no blog do Rob Weir (um dos membros da delegação americana) tratando sobre mapeamento dos dados binários, já recebi telefonemas e e-mails de colegas que participaram das discussões sobre o tema no Brasil me perguntando o motivo pelo qual o Brasil não apresentou uma proposta para isso lá. Esta foi uma das coisas que nos comprometemos a fazer em Genebra, mas gente… simplesmente não deu.</p>
+<p>O mapeamento nada mais é do que um documento que explique como traduzir corretamente os dados armazenados no formato antigo (binários como .doc, .xls e .ppt) para o novo formato proposto (.docx, .xlslx e .pptx). A importância disso é que diversos conversores de documentos poderão gerar documentos mais similares, traduzindo adequadamente os dados antigos para os novos. Além disso, este documento permite a identificação clara de atributos que não podem ser traduzidos (por motivos técnicos) e que precisam ser preservados. Tudo isso faz parte da idéia mais básica do OpenXML, um formato de documentos editáveis (como o ODF) com suporte ao legado (o ECMA alega que este suporte ao legado é o que o diferencia do ODF e por isso torna-o necessário).</p>
+<p>Como não posso comentar nenhum detalhe sobre a reunião, não posso explicar os detalhes do  que aconteceu mas tenho o dever de dar uma resposta aos que trabalharam com o tema aqui na ABNT: “Não deixaram o Brasil apresentar sua proposta sobre o mapeamento”. Não posso contar os detalhes da reunião, mas posso contar uma conversa que tivemos (eu e mais um delegado brasileiro) com uma pessoa no início da pausa para o almoço de sexta feira. Vou divulgar esta conversa pois nosso interlocutor se identificou como sendo membro do ECMA, membro de uma delegação nacional presente no BRM mas não disse que estava falando em nome de ninguém (como é o protocolo lá), e por isso entendo que esta foi uma conversa que não está coberta pela escandalosa “Lei do Silêncio” imposta a todos nós.</p>
+<p>Esta pessoa nos procurou dizendo que considera que não deveríamos apresentar nossa proposta que pedia o mapeamento, pois não havia tempo hábil  na reunião (pouco mais de três horas) para escrevermos o documento. Nós dissemos que nossa proposta partia da premissa de que o ECMA já tinha este documento, pois, se justifica a necessidade do OOXML por causa do suporte ao binário e se afirma ainda que existem coisas que não podem ser traduzidas (deprecated), eles devem ter estudado aprofundadamente esta situação e no mínimo ter feito o mapeamento.</p>
+<p>Eu nunca vi uma pessoa tão nervosa e envergonhada na minha vida… Ele disse que  a Microsoft deve ter este mapeamento e se nós quisermos, podemos pedir à Microsoft mas não pedir ao ECMA. Disse que o ECMA só foi responsável por criar o novo schema XML e que não têm esta documentação.</p>
+<p>Como nossa conversa não ia a lugar nenhum, eu lhe expliquei que o que iriamos propor era o resultado do trabalho de um comitê no Brasil e que infelizmente se ele não pudesse voltar ao tempo e vir ao Brasil contar esta história toda, que teríamos que insistir com nossa proposta.</p>
+<p>Fiz questão de contar isso aqui, pois não deixaram o Brasil apresentar a proposta…</p>
+<p>Se o ECMA não têm o mapeamento, alguém ai consegue me explicar:</p>
+<p>1 - Como eles afirmam que o OpenXML é 100% compatível com o legado ?</p>
+<p>2 - Como eles afirmam que o OpenXML não é um overlap 100% do ODF, se não estudaram aprofundadamente o suporte ao legado ?</p>
+<p>3 - Como eles afirmam que existem elementos “deprecated” que não podem ser traduzidos para XML e devem ser mantidos?</p>
+<p>4 - Como eles fazem o mundo inteiro perder um ano, milhões de dólares e tempo de muita gente que seria mais produtiva fazendo outras coisas para discutir uma proposta dessas, sem que a base mais elementar dela seja sólida ?</p>
+<p>Para terminar, como protesto, um trecho de uma música do  Peter Gabriel, sobre Biko:</p>
+<p> ”You can blow out a candle, but you can’t blow out a fire”</p>
+<p>Que alívio… Vou dormir minha primeira noite em paz com minha consciência desde sexta feira…&rdquo;</p></blockquote>
+<p>Enviado por Vitorio Y. Furusho (furusho&Theta;celepar&#183;pr&#183;gov&#183;br) - <a href="http://homembit.com/2008/03/afinal-o-que-fomos-fazer-em-genebra.html">referência</a> (homembit.com).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/openxml-afinal-o-que-fomos-fazer-em-genebra/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>IDGNow: Problemas de configuração e cultura do usuário assombram PC para Todos</title>
+		<link>http://br-linux.org/2008/idgnow-problemas-de-configuracao-e-cultura-do-usuario-assombram-pc-para-todos/</link>
+		<comments>http://br-linux.org/2008/idgnow-problemas-de-configuracao-e-cultura-do-usuario-assombram-pc-para-todos/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 13:20:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Destaque]]></category>
+
+		<category><![CDATA[Governos]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/idgnow-problemas-de-configuracao-e-cultura-do-usuario-assombram-pc-para-todos/</guid>
+		<description><![CDATA[
+“&#8221;Usuários de desktops do programa Computador para Todos revelam experiências que dificultariam adoção do Linux em PCs. Dois anos e meio após as primeiras máquinas chegarem a grandes varejistas, o que se vê é um programa que, mesmo como um dos incentivadores de um setor que cresceu 21% em 2007 atingindo 9,98 milhões de PCs [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“&#8221;Usuários de desktops do programa Computador para Todos revelam experiências que dificultariam adoção do Linux em PCs. Dois anos e meio após as primeiras máquinas chegarem a grandes varejistas, o que se vê é um programa que, mesmo como um dos incentivadores de um setor que cresceu 21% em 2007 atingindo 9,98 milhões de PCs vendidos, enfrenta turbulências na maneira como o Linux chega aos usuários finais. Usuários ouvidos pelo IDG Now!, que compraram máquinas certificadas no programa Computador para Todos, relataram problemas pontuais em equipamentos que chegam mal configurados e sem suporte adequado para o uso dos sistemas abertos.&#8221;”</p></blockquote>
+<p>Enviado por Manoel Pinho (pinhoΘuninet·com·br) - <a href="http://idgnow.uol.com.br/computacao_pessoal/2008/03/05/problemas-de-configuracao-e-cultura-do-usuario-assombram-pc-para-todos/">referência</a> (idgnow.uol.com.br).</p>
+<p>A matéria de Guilherme Felitti conta com a participação (como fontes nomeadas) de diversos leitores do BR-Linux.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/idgnow-problemas-de-configuracao-e-cultura-do-usuario-assombram-pc-para-todos/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Educação Ambiental utilizando tecnologia 3D</title>
+		<link>http://br-linux.org/2008/educacao-ambiental-utilizando-tecnologia-3d/</link>
+		<comments>http://br-linux.org/2008/educacao-ambiental-utilizando-tecnologia-3d/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 13:00:00 +0000</pubDate>
+		<dc:creator>Augusto Campos</dc:creator>
+		
+		<category><![CDATA[Comunidade]]></category>
+
+		<guid isPermaLink="false">http://br-linux.org/2008/educacao-ambiental-utilizando-tecnologia-3d/</guid>
+		<description><![CDATA[
+“No começo do ano de 2008, criei três curtas metragens usando Blender, com recurso de neon onde o foco era a mensagem sobre o que está ocorrendo com o meio-ambiente. E o tema era o registro do impacto ambiental, e que o menor ato que nós fizermos pode ocasionar numa consequência social e econômica. &#8220;(&#8230;)televisão, [...]]]></description>
+			<content:encoded><![CDATA[<blockquote class=usertext><p>
+“No começo do ano de 2008, criei três curtas metragens usando Blender, com recurso de neon onde o foco era a mensagem sobre o que está ocorrendo com o meio-ambiente. E o tema era o registro do impacto ambiental, e que o menor ato que nós fizermos pode ocasionar numa consequência social e econômica. &#8220;(&#8230;)televisão, rádio,revistas e jornais são os veículos que propagam o que vemos. Mas o que realmente vemos é mais poluição sonora, aquática, terrestre e do ar. Vemos um aumento de sedentários, de estresse e de mudanças significativas no clima. No Brasil, no Rio de Janeiro neste ano já teve duas chuvas seguidas com ventos fortes demais para cá. Com granizo voando a esmo em regiões quentes. Já vi granizo no chão após um vendaval, mas nunca voando na minha frente.</p>
+<p>Tufões no sul, e em Florianópolis mais recentemente. O que chama de tromba dágua. Mas o que vemos sem usar os veiculos acima citados, é a realidade. Não é uma noticia, não é um locutor de rádio narrando uma história, não é ficção.&#8221;</p>
+<p>A primeira animação fala sobre uma conscientização sobre o desmatamento. </p>
+<p>A segunda animação fala sobre o impacto de jogar lixo no chão.</p>
+<p>A terceira animação fala sobre o desenvolvimento sustentável e o impacto ambiental que ocorre quando olhamos para um unico angulo: Explorar.</p>
+<p>O foco é criar uma aplicabilidade para o Blender neste sentido, e incentivar a consciência para estes detalhes.”</p></blockquote>
+<p>Enviado por Rafael Junqueira (SahelBlender3DΘgmail·com) - <a href="http://blender3dcarioca.wordpress.com/2008/03/05/conscientizacao-pela-natureza-usando-o-3d-para-ver-o-multi-d/">referência</a> (blender3dcarioca.wordpress.com).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://br-linux.org/2008/educacao-ambiental-utilizando-tecnologia-3d/feed/</wfw:commentRss>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic Page Served (once) in 0.307 seconds -->
+<!-- Cached page served by WP-Cache -->

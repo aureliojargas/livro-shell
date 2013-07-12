@@ -1,0 +1,5 @@
+dialog                                         \
+   --title 'Aguarde'                           \
+   --sleep 5                                   \
+   --infobox '\nFinalizando em 5 segundos...'  \
+   0 0

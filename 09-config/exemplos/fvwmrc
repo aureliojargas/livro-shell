@@ -1,0 +1,195 @@
+# .fvwmrc
+# A minimalist fvwm configuration file, version 19991116
+# Copyright (c) Ruda Moura <ruda@lowtech>
+# VERY improved &;) by aurelio 19991122
+
+# Colors
+#-------------------------------------------------------------------------------
+StdForeColor     Black
+StdBackColor     DarkGreen
+HiForeColor      Grey
+HiBackColor      DarkGreen
+StickyForeColor  Grey
+StickyBackColor  SlateGrey
+MenuForeColor    Grey
+MenuBackColor    DarkGreen
+MenuStippleColor SteelBlue3
+ 
+# Fonts ----------------------------------------------------------------
+WindowFont -adobe-helvetica-medium-r-*-*-16-*-*-*-*-*-*-*
+Font       -misc-fixed-medium-r-*-*-14-*-*-*-*-*-*-*
+
+# Focus ----------------------------------------------------------------
+AutoRaise 5000
+SloppyFocus
+
+# MWM Emulation --------------------------------------------------------
+MWMBorders
+MWMDecorHints
+MWMFunctionHints
+MWMHintOverride
+MWMMenus
+
+# Miscellaneous Stuff --------------------------------------------------
+OpaqueMove     0
+EdgeScroll     0 0
+EdgeResistance 0 0
+
+# Window Placement -----------------------------------------------------
+RandomPlacement
+SmartPlacement
+NoPPosition
+
+# Paths ----------------------------------------------------------------
+IconPath   /usr/X11R6/include/X11/bitmaps
+
+# Styles ---------------------------------------------------------------
+Style "*"           BorderWidth 5,HandleWidth 5,NoIcon
+#Style "GoodStuff"   NoTitle,Sticky,CirculateSkip,NoHandles,BorderWidth 0
+Style "Fvwm*"       NoTitle,Sticky,CirculateSkip,NoHandles
+
+# Functions ------------------------------------------------------------
+Function "InitFunction"
+  Exec   "I" xsetroot -solid SteelBlue4
+EndFunction
+
+Function "RestartFunction"
+  Function "I" InitFunction
+EndFunction
+
+Function "Move-or-Raise"
+  Move       "M"
+  Raise      "M"
+  Raise      "C"
+  RaiseLower "D"
+EndFunction
+
+Function "Resize-or-Raise"
+  Resize     "M"
+  Raise      "M"
+  Raise      "C"
+  RaiseLower "D"
+EndFunction
+
+# Menus ----------------------------------------------------------------
+
+PopUp "Jogos"
+  Exec "&asteroids3D" exec /usr/games/asteroids3D
+  Exec "bobobot"      exec /usr/games/bobobot
+  Exec "bugsquish"    exec /usr/games/bugsquish
+  Exec "casse-tete"   exec /usr/games/casse-tete
+  Exec "&circuslinux" exec /usr/games/circuslinux
+  Exec "ct"           exec /usr/games/ct
+  Exec "&defendguin"  exec /usr/games/defendguin
+  Exec "&icebreaker"  exec /usr/games/icebreaker
+  Exec "&ltris"       exec /usr/games/ltris
+  Exec "lbreakout"    exec /usr/games/lbreakout
+  Exec "marbles"      exec /usr/games/marbles
+  Exec "&nil"         exec /usr/games/nil
+  Exec "senso"        exec /usr/games/senso
+  Exec "&sevencolors" exec /usr/games/sevencolors
+  Exec "xbomber"      exec /usr/games/xbomber
+  Exec "xinvaders3d"  exec /usr/games/xinv3d
+  Exec "&xlogical   "  exec /usr/games/xlogical
+  Exec "xmahjongg"    exec /usr/games/xmahjongg
+  Exec "xrally"       exec /usr/games/xrally
+  Exec "xscavenger"   exec /usr/games/xscavenger
+  Exec "xsoldier"     exec /usr/games/xsoldier
+  Exec "xtux"         exec /usr/games/xtux
+EndPopUp
+
+PopUp "Sair"
+  Quit    "&sair"
+  Restart "&reiniciar" fvwm
+EndPopUp
+
+PopUp "Utilities"
+  Title	"malices"
+  Exec  "&terminal"   exec xterm -ls -fg White -bg Black -geometry 80x25
+  Exec  "&netscape"   exec netscape
+  Exec  "x&paint"     exec xpaint
+  PopUp "&jogos"      Jogos
+  Nop   ""
+  PopUp "&sair"       Sair
+EndPopUp
+
+PopUp "Window Ops"
+  Title      "janela"
+  Function   "mo&ver"   Move-or-Raise
+  Function   "&tamanho" Resize-or-Raise
+  Raise      "&1º plano"
+  Lower      "&2º plano"
+  Maximize   "(&max)minimizar"
+  Nop        ""
+  Destroy    "&destruir"
+  Delete     "matar"
+  Close      "&fechar"
+  Nop        ""
+  Refresh    "&redesenhar"
+EndPopUp
+
+PopUp "Window Ops2"
+  Function "Move"   Move-or-Raise
+  Function "Resize" Resize-or-Raise
+  Raise    "Raise"
+  Lower	   "Lower"
+  Iconify  "Iconify"
+  Stick    "(Un)Stick"
+  Maximize "(Un)Maximize"
+  Nop ""
+  Destroy  "Destroy"
+  Delete   "Delete"
+  Close    "Close"
+EndPopUp
+
+# More Functions -------------------------------------------------------
+Function "Window-Ops-Func"
+  PopUp "M" Window Ops2
+  PopUp "C" Window Ops2
+  Close "D"
+EndFunction
+
+# Key Bindings ---------------------------------------------------------
+Key F1     A M Popup "Utilities"
+Key F2     A M Popup "Window Ops"
+Key F3     A M Lower
+Key F4     A M Close
+Key F5     A M Raise
+Key F6     A M Stick
+Key F7     A M Move
+Key F8     A M Resize
+Key F9     A M Iconify
+Key F10    A M Maximize 101 101
+Key Tab    A M Warp
+Key Escape A M WindowList
+Key Next   A M Scroll +100000 0
+Key Prior  A M Scroll -100000 0
+
+
+# Modules -------------------------------------------------------------
+DeskTopSize        2x2
+*FvwmPagerGeometry -4+4
+*FvwmPagerFont     none
+*FvwmPagerFore     Black
+*FvwmPagerBack     SteelBlue4
+*FvwmPagerHilight  Black
+
+
+# keyboard as mouse - thanks Thomas Köhler ----------------------------
+# 1/10 of a page: arrow + control
+Key Left	A	C	CursorMove -10  +0
+Key Right	A	C	CursorMove +10  +0
+Key Up		A	C	CursorMove +0  -10
+Key Down	A	C	CursorMove +0  +10
+
+#   2% of a page: arrow + control + shift
+Key Left	A	CS	CursorMove -2    0
+Key Right	A	CS	CursorMove +2   +0
+Key Up		A	CS	CursorMove +0   -2
+Key Down	A	CS	CursorMove +0   +2
+
+#   1% of a page: arrow + control + meta
+Key Left	A	CM	CursorMove -1    0
+Key Right	A	CM	CursorMove +1   +0
+Key Up		A	CM	CursorMove +0   -1
+Key Down	A	CM	CursorMove +0   +1

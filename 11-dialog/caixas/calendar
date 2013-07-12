@@ -1,0 +1,5 @@
+dialog                       \
+   --title 'Escolha a data'  \
+   --calendar ''             \
+   0 0                       \
+   31 12 1999

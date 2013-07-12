@@ -1,0 +1,7 @@
+( echo 40 ; sleep 1
+  echo 75 ; sleep 10
+  echo 100; sleep 1 ) |
+dialog                                     \
+   --title 'Instalação dos Pacotes'        \
+   --gauge '\nInstalando Vim-6.0a.tgz...'  \
+   8 40 60

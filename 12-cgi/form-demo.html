@@ -1,0 +1,46 @@
+<h1>Demonstração de formulário</h1>
+
+<form method="post" action="/cgi-bin/programa.cgi">
+	
+<!-- Hidden: -->
+<input type="hidden" name="login" value="joaozinho">
+<input type="hidden" name="email" value="joao@example.com">
+
+<!-- Hidden são campos escondidos para passar informações ao CGI -->
+<!-- Ah, isso é um comentário em HTML ;) -->
+
+Text:
+<input type="text" name="texto" value="Digite aqui" size="40" maxlength="40">
+
+<hr>
+
+Textarea:
+<textarea name="notas" cols="40" rows="3">Digite aqui</textarea>
+
+<hr>
+
+Checkbox:
+<input type="checkbox" name="opcao" value="1">Item 1
+<input type="checkbox" name="opcao" value="2" checked>Item 2
+
+<hr>
+
+Radio:
+<input type="radio" name="opcao" value="1" checked>Item 1
+<input type="radio" name="opcao" value="2">Item 2
+
+<hr>
+
+Select:
+<select name="menu" size="1">
+	<option value="1">Item 1</option>
+	<option value="2">Item 2</option>
+	<option value="3" selected>Item 3</option>
+</select>
+
+<hr>
+
+Submit:
+<input type="submit" name="botao" value="Enviar">
+
+</form>

@@ -1,0 +1,5 @@
+1. Grep é g/re/p, que é Global Regular Expression Print.
+2. Com o *grep na mão, nenhum dado está perdido.
+3. Grep, Egrep e Fgrep. Uma família e tanto!
+4. Não saia de casa sem o seu [fe]?grep.
+5. Grep me harder!
