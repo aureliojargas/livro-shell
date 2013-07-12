@@ -26,7 +26,7 @@
 BANCO=usuarios.txt
 
 # Inclui o gerenciador do banco
-source bantex-4.sh || {
+source bantex.sh || {
 	echo "Ops, ocorreu algum erro no gerenciador do banco"
 	exit 1
 }
