@@ -27,7 +27,7 @@
 #                      FIM
 #
 
-proxima=primeira
+proxima='primeira'
 
 # loop principal
 while : ; do
@@ -37,20 +37,20 @@ while : ; do
 	# e 'proxima' # que definem os rumos da navegação.
 	case "$proxima" in
 		primeira)
-			proxima=nome
+			proxima='nome'
 			dialog --backtitle 'Pegador de Dados' \
 				--msgbox 'Bem-vindo ao pegador de dados!' 0 0
 			;;
 		nome)
-			anterior=primeira
-			proxima=idade
+			anterior='primeira'
+			proxima='idade'
 			nome=$(dialog --stdout \
 				--backtitle 'Pegador de Dados' \
 				--inputbox 'Seu nome:' 0 0)
 			;;
 		idade)
-			anterior=nome
-			proxima=casado
+			anterior='nome'
+			proxima='casado'
 			idade=$(dialog --stdout \
 				--backtitle 'Pegador de Dados'   \
 				--menu 'Qual a sua idade?' 0 0 0 \
@@ -60,8 +60,8 @@ while : ; do
 				'mais de 40 anos'    '' )
 			;;
 		casado)
-			anterior=idade
-			proxima=gostos
+			anterior='idade'
+			proxima='gostos'
 			casado=$(dialog --stdout \
 				--backtitle 'Pegador de Dados'    \
 				--radiolist 'Estado civil:' 0 0 0 \
@@ -71,8 +71,8 @@ while : ; do
 				'viúvo'    'livre de novo'    OFF )
 			;;
 		gostos)
-			anterior=casado
-			proxima=final
+			anterior='casado'
+			proxima='final'
 			gostos=$(dialog --stdout \
 				--separate-output                      \
 				--backtitle 'Pegador de Dados'         \
@@ -100,7 +100,7 @@ while : ; do
 			;;
 		*)
 			echo "Janela desconhecida '$proxima'."
-			echo Abortando programa...
+			echo "Abortando programa..."
 			exit
 	esac
 
@@ -108,7 +108,7 @@ while : ; do
 	# de todas as telas. Volta para a tela anterior se for
 	# CANCELAR, sai do programa se for ESC.
 	retorno=$?
-	[ $retorno -eq 1   ] && proxima=$anterior   # cancelar
-	[ $retorno -eq 255 ] && break               # Esc
+	[ $retorno -eq 1   ] && proxima="$anterior"   # cancelar
+	[ $retorno -eq 255 ] && break                 # Esc
 
 done
