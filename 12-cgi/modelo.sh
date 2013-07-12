@@ -8,11 +8,11 @@ echo
 # Obtém dados do usuário
 login=$(whoami)
 grupos=$(groups)
-nome=$(grep "^$login:" /etc/passwd | cut -d: -f5)
+nome=$(grep "^$login:" /etc/passwd | cut -d : -f 5)
 
 # Obtém dados do sistema
 data=$(date "+%d.%m.%Y")
-raiz=$(df / | tail -n 1 | tr -s ' \t' | cut -d' ' -f5)
+raiz=$(df / | tail -n 1 | tr -s ' \t' | cut -d ' ' -f 5)
 barra_bin=$(ls -1 /bin | wc -l)
 
 # Mostra o modelo, com os dados coletados
