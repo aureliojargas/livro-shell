@@ -1,9 +1,8 @@
-
 # Códigos-fonte do livro Shell Script Profissional
 
 Oi, aqui é o [Aurelio](http://aurelio.net), o autor do livro [Shell Script Profissional](http://www.shellscript.com.br).
 
-Aqui estão todos os códigos-fonte listados no livro, bem como outros arquivos auxiliares que ajudarão em seus estudos.
+Neste repositório estão todos os códigos-fonte listados no livro, bem como outros arquivos auxiliares que ajudarão em seus estudos.
 
 
 ## Como estudar
