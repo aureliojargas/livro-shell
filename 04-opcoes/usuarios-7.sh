@@ -28,7 +28,7 @@ MENSAGEM_USO="
 Uso: $(basename "$0") [OPÇÕES]
 
 OPÇÕES:
-  -d, --delimiter=C  Usa o caractere C como delimitador
+  -d, --delimiter C  Usa o caractere C como delimitador
   -r, --reverse      Inverte a listagem
   -s, --sort         Ordena a listagem alfabeticamente
   -u, --uppercase    Mostra a listagem em MAIÚSCULAS
