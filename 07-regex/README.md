@@ -18,7 +18,7 @@ Então você só precisa fazer:
 
 O txt2regex é o programa citado no final do capítulo e serve para fazer expressões regulares apenas respondendo perguntas. Aqui está seu código-fonte:
 
-[https://github.com/aureliojargas/txt2regex/blob/master/txt2regex.sh]()
+<https://github.com/aureliojargas/txt2regex/blob/master/txt2regex.sh>
 
 Para executá-lo em sua máquina, basta [baixá-lo deste endereço](https://raw.github.com/aureliojargas/txt2regex/master/txt2regex.sh) e executá-lo na linha de comando:
 
