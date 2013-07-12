@@ -21,9 +21,7 @@ Todos os arquivos estão com a codificação latin-1 (ISO-8859-1). Se você est�
 
 Use o programa `utf8`, que se encontra neste mesmo diretório. Por exemplo, para converter um programa do capítulo 2:
 
-```bash
     ./utf8 02-qualidade/seq-limpo.sh
-```
 
 Para evitar problemas, não converta todos os arquivos de uma vez, mas somente aqueles que apresentarem algum problema com a acentuação. Se precisar, restaure o arquivo original deste pacote.
 
